@@ -30,3 +30,50 @@ See Augur's usage docs for these commands for more details.
 Custom node data files can also be produced by build-specific scripts in addition
 to the ones produced by Augur commands.
 """
+# rule ancestral:
+#     input:
+#         tree = "results/tree_raw.nwk",
+#         alignment = "results/aligned.fasta"
+#     output:
+#         node_data = "results/nt_muts.json"
+#     shell:
+#         """
+#         augur ancestral \
+#             --tree {input.tree} \
+#             --alignment {input.alignment} \
+#             --output-node-data {output.node_data}
+#         """
+
+# rule translate:
+#     input:
+#         tree = "results/tree_raw.nwk",
+#         node_data = "results/nt_muts.json"
+#         reference = "defaults/genemap.gff"
+#     output:
+#         node_data = "results/aa_muts.json"
+#     shell:
+#         """
+#         augur translate \
+#             --tree {input.tree} \
+#             --ancestral-sequences {input.node_data} \
+#             --reference-sequence {input.reference} \
+#             --output-node-data {output.node_data} \
+#         """
+
+# rule traits:
+#     input:
+#         tree = "results/tree.nwk",
+#         metadata = "data/metadata.tsv"
+#     output:
+#         node_data = "results/traits.json",
+#     params:
+#         columns = config["traits"]["columns"],
+#     shell:
+#         """
+#         augur traits \
+#             --tree {input.tree} \
+#             --metadata {input.metadata} \
+#             --output {output.node_data} \
+#             --columns {params.columns} \
+#             --confidence \
+#         """

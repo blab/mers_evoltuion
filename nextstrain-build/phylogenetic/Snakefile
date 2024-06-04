@@ -17,7 +17,7 @@ configfile: "defaults/config.yaml"
 rule all:
     input:
         # Fill in path(s) to the final exported Auspice JSON(s)
-        auspice_json="",
+        auspice_json="results/filtered.fasta"
 
 
 # These rules are imported in the order that they are expected to run.
@@ -31,9 +31,9 @@ rule all:
 # custom_rules imported below to ensure that the core workflow is not complicated
 # by build specific rules.
 include: "rules/prepare_sequences.smk"
-include: "rules/construct_phylogeny.smk"
-include: "rules/annotate_phylogeny.smk"
-include: "rules/export.smk"
+# include: "rules/construct_phylogeny.smk"
+# include: "rules/annotate_phylogeny.smk"
+# include: "rules/export.smk"
 
 # Allow users to import custom rules provided via the config.
 # This allows users to run custom rules that can extend or override the workflow.
