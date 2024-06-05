@@ -18,33 +18,33 @@ This part of the workflow usually includes the following steps:
 
 See Augur's usage docs for these commands for more details.
 """
-# rule tree:
-#     input:
-#         alignment = "results/aligned.fasta"
-#     output:
-#         tree = "results/tree_raw.nwk"
-#     shell:
-#         """
-#         augur tree \
-#             --alignment {input.alignment} \
-#             --output {output.tree}
-#         """
+rule tree:
+    input:
+        alignment = "results/aligned.fasta"
+    output:
+        tree = "results/tree_raw.nwk"
+    shell:
+        """
+        augur tree \
+            --alignment {input.alignment} \
+            --output {output.tree}
+        """
 
-# rule refine:
-#     input:
-#         tree = "results/tree_raw.nwk",
-#         alignment = "results/aligned.fasta",
-#         metadata = "data/metadata.tsv"
-#     output:
-#         tree = "results/tree.nwk",
-#         node_data = "results/branch_lengths.json"
-#     shell:
-#         """
-#         augur refine \
-#             --tree {input.tree} \
-#             --alignment {input.alignment} \
-#             --metadata {input.metadata} \
-#             --timetree \
-#             --output-tree {output.tree} \
-#             --output-node-data {output.node_data}
-#         """
+rule refine:
+    input:
+        tree = "results/tree_raw.nwk",
+        alignment = "results/aligned.fasta",
+        metadata = "data/metadata.tsv"
+    output:
+        tree = "results/tree.nwk",
+        node_data = "results/branch_lengths.json"
+    shell:
+        """
+        augur refine \
+            --tree {input.tree} \
+            --alignment {input.alignment} \
+            --metadata {input.metadata} \
+            --timetree \
+            --output-tree {output.tree} \
+            --output-node-data {output.node_data}
+        """

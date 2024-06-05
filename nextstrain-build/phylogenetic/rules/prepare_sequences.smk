@@ -39,19 +39,21 @@ rule filter:
             --output {output.sequences} \
             --min-length {params.min_length}
         """
-# rule align:
-#     input:
-#         sequences = "results/filtered.fasta",
-#         reference = "defaults/mers_reference.fasta",
-#         genemap = "defaults/genemap.gff"
-#     output:
-#         alignment = "results/aligned.fasta"
-#     shell:
-#         """
-#         augur align \
-#             --sequences {input.sequences} \
-#             --reference-sequence {input.reference} \
-#             --output {output.alignment} \
-#             --fill-gaps \
-#             --remove-reference
-#         """
+rule align:
+    input:
+        sequences = "results/filtered.fasta",
+        reference = "defaults/mers_reference.fasta",
+        genemap = "defaults/mers_genemap.gff"
+    output:
+        alignment = "results/aligned.fasta",
+        insertions = "results/insertions.tsv"
+    shell:
+        """
+          nextclade run \
+              --input-ref {input.reference} \
+              --input-annotation {input.genemap} \
+              --output-fasta - \
+              --output-tsv {output.insertions} \
+              {input.sequences} \
+          | seqkit seq -i > {output.alignment} \
+        """

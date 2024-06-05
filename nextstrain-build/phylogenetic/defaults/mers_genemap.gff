@@ -1,0 +1,13 @@
+##sequence-region MF598664 1 30123
+MF598664	feature	source	1	30123	.	+	.	gene_name=nuc
+MF598664	feature	gene	279	13433	.	+	.	gene_name=ORF1a
+MF598664	feature	gene	13433	21514	.	+	.	gene_name=ORF1b
+MF598664	feature	gene	21456	25517	.	+	.	gene_name=Spike
+MF598664	feature	gene	25532	25843	.	+	.	gene_name=Orf3
+MF598664	feature	gene	25852	26181	.	+	.	gene_name=Orf4a
+MF598664	feature	gene	26093	26833	.	+	.	gene_name=Orf4b
+MF598664	feature	gene	26840	27514	.	+	.	gene_name=Orf5
+MF598664	feature	gene	27590	27838	.	+	.	gene_name=E
+MF598664	feature	gene	27853	28512	.	+	.	gene_name=M
+MF598664	feature	gene	28566	29807	.	+	.	gene_name=N
+MF598664	feature	gene	28762	29100	.	+	.	gene_name=Orf8b
