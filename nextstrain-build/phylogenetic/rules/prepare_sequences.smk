@@ -20,11 +20,22 @@ This part of the workflow usually includes the following steps:
 
 See Augur's usage docs for these commands for more details.
 """
+rule tidy_host_column:
+    input:
+        metadata = "../ingest/results/metadata.tsv"
+    output:
+        metadata = "results/metadata.tsv"
+    shell:
+        """
+        python3 scripts/tidy_host_column.py \
+            --metadata {input.metadata} \
+            --output-file {output.metadata} \
+        """
 
 rule filter:
     input:
-        sequences = "data/sequences.fasta",
-        metadata = "data/metadata.tsv",
+        sequences = "../ingest/results/sequences.fasta",
+        metadata = "results/metadata.tsv",
         exclude = "defaults/dropped_strains.txt"
     output:
         sequences = "results/filtered.fasta"

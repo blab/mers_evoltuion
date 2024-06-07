@@ -27,7 +27,8 @@ See Augur's usage docs for these commands for more details.
 rule export:
     input:
         tree = "results/tree.nwk",
-        metadata = "data/metadata.tsv",
+        metadata = "results/metadata.tsv",
+        colors = "defaults/colors.tsv",
         branch_lengths = "results/branch_lengths.json",
         traits = "results/traits.json",
         nt_muts = "results/nt_muts.json",
@@ -42,5 +43,6 @@ rule export:
             --metadata {input.metadata} \
             --node-data {input.branch_lengths} {input.traits} {input.nt_muts} {input.aa_muts} \
             --auspice-config {input.auspice_config} \
-            --output {output.auspice_json}
+            --output {output.auspice_json} \
+            --colors {input.colors}
         """
