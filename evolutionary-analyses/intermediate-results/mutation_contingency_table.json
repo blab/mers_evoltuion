@@ -1,0 +1,5186 @@
+{
+    "P4L": {
+        "camel": 1,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 412
+    },
+    "A415S": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "E647K": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "M677T": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "D139Y": {
+        "camel": 59,
+        "human": 17,
+        "human_wo": 550,
+        "camel_wo": 354
+    },
+    "A412T": {
+        "camel": 8,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 405
+    },
+    "V658L": {
+        "camel": 8,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 405
+    },
+    "A119S": {
+        "camel": 2,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 411
+    },
+    "V134A": {
+        "camel": 2,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 411
+    },
+    "G179D": {
+        "camel": 2,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 411
+    },
+    "V252F": {
+        "camel": 2,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 411
+    },
+    "G361V": {
+        "camel": 2,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 411
+    },
+    "R675Q": {
+        "camel": 2,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 411
+    },
+    "G60X": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "G135S": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "A70S": {
+        "camel": 4,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 409
+    },
+    "T405I": {
+        "camel": 21,
+        "human": 13,
+        "human_wo": 554,
+        "camel_wo": 392
+    },
+    "Y175H": {
+        "camel": 339,
+        "human": 566,
+        "human_wo": 1,
+        "camel_wo": 74
+    },
+    "S371F": {
+        "camel": 52,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 361
+    },
+    "R680Q": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "S637T": {
+        "camel": 3,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 410
+    },
+    "H148Y": {
+        "camel": 9,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 404
+    },
+    "L476F": {
+        "camel": 8,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 405
+    },
+    "L569F": {
+        "camel": 8,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 405
+    },
+    "A578V": {
+        "camel": 50,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 363
+    },
+    "R607P": {
+        "camel": 50,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 363
+    },
+    "T120I": {
+        "camel": 20,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 393
+    },
+    "P496L": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "G236S": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "Q17H": {
+        "camel": 11,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 402
+    },
+    "T373A": {
+        "camel": 11,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 402
+    },
+    "L431F": {
+        "camel": 10,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 403
+    },
+    "L726F": {
+        "camel": 8,
+        "human": 23,
+        "human_wo": 544,
+        "camel_wo": 405
+    },
+    "P78L": {
+        "camel": 4,
+        "human": 4,
+        "human_wo": 563,
+        "camel_wo": 409
+    },
+    "S664F": {
+        "camel": 3,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 410
+    },
+    "S205T": {
+        "camel": 3,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 410
+    },
+    "S489L": {
+        "camel": 3,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 410
+    },
+    "A10V": {
+        "camel": 5,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 408
+    },
+    "S509P": {
+        "camel": 4,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 409
+    },
+    "A415V": {
+        "camel": 1,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 412
+    },
+    "L476P": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "Q41R": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "H329Y": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "S400F": {
+        "camel": 2,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 411
+    },
+    "L424V": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "F704L": {
+        "camel": 7,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 406
+    },
+    "P728L": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "A7V": {
+        "camel": 338,
+        "human": 567,
+        "human_wo": 0,
+        "camel_wo": 75
+    },
+    "G75V": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R282L": {
+        "camel": 0,
+        "human": 4,
+        "human_wo": 563,
+        "camel_wo": 413
+    },
+    "N203D": {
+        "camel": 0,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 413
+    },
+    "S730R": {
+        "camel": 0,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 413
+    },
+    "V7I": {
+        "camel": 4,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 409
+    },
+    "S664X": {
+        "camel": 1,
+        "human": 12,
+        "human_wo": 555,
+        "camel_wo": 412
+    },
+    "D1-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V2-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G3-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P4-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D5-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S6-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V7-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K8-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S9-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A10-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C11-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I12-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "E13-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V14-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D15-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I16-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q17-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q18-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T19-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F20-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F21-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D22-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K23-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T24-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "W25-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P26-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R27-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P28-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I29-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D30-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V31-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S32-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K33-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A34-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D35-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G36-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I37-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I38-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y39-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P40-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q41-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G42-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R43-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T44-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y45-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S46-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N47-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I48-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T49-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I50-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T51-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y52-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q53-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G54-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L55-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F56-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P57-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y58-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q59-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G60-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D61-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "H62-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G63-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D64-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "M65-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y66-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V67-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y68-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S69-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A70-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G71-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "H72-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A73-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T74-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G75-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T76-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T77-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P78-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q79-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K80-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L81-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F82-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V83-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A84-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N85-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y86-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S87-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q88-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D89-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V90-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K91-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q92-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F93-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A94-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N95-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G96-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F97-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V98-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V99-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R100-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I101-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G102-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A103-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A104-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A105-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N106-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S107-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T108-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G109-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T110-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V111-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I112-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I113-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S114-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P115-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S116-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T117-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S118-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A119-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T120-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I121-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R122-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K123-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I124-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y125-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P126-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A127-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F128-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "M129-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L130-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G131-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S132-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S133-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V134-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G135-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N136-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F137-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S138-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D139-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G140-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K141-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "M142-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G143-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R144-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F145-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F146-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N147-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "H148-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T149-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L150-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V151-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L152-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L153-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P154-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D155-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G156-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C157-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G158-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T159-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L160-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L161-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R162-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A163-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F164-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y165-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C166-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I167-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L168-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "E169-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P170-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R171-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S172-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G173-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N174-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "H175-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C176-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P177-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A178-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G179-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N180-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S181-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y182-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T183-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S184-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F185-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A186-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T187-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y188-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "H189-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T190-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P191-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A192-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T193-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D194-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C195-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S196-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D197-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G198-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N199-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y200-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N201-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R202-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N203-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A204-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S205-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L206-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N207-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S208-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F209-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K210-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "E211-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y212-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F213-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N214-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L215-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R216-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N217-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C218-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T219-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F220-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "M221-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y222-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T223-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y224-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N225-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I226-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T227-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "E228-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D229-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "E230-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I231-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L232-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "E233-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "W234-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F235-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G236-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I237-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T238-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q239-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T240-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A241-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q242-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G243-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V244-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "H245-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L246-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F247-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S248-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S249-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R250-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y251-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V252-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D253-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L254-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y255-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G256-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G257-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N258-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "M259-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F260-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q261-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F262-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A263-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T264-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L265-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P266-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V267-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y268-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D269-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T270-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I271-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K272-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y273-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y274-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S275-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I276-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I277-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P278-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "H279-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S280-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I281-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R282-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S283-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I284-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q285-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S286-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D287-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R288-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K289-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A290-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "W291-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A292-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A293-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F294-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y295-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V296-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y297-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K298-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L299-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q300-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P301-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L302-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T303-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F304-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L305-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L306-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D307-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F308-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S309-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V310-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D311-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G312-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y313-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I314-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R315-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R316-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A317-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I318-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D319-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C320-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G321-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F322-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N323-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D324-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L325-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S326-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q327-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L328-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "H329-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C330-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S331-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y332-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "E333-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S334-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F335-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D336-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V337-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "E338-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S339-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G340-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V341-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y342-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S343-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V344-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S345-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S346-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F347-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "E348-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A349-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K350-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P351-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S352-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G353-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S354-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V355-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V356-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "E357-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q358-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A359-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "E360-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G361-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V362-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "E363-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C364-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D365-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F366-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S367-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P368-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L369-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L370-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S371-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G372-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T373-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P374-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P375-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q376-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V377-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y378-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N379-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F380-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K381-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R382-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L383-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V384-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F385-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T386-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N387-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C388-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N389-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y390-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N391-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L392-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T393-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K394-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L395-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L396-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S397-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L398-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F399-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S400-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V401-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N402-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D403-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F404-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T405-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C406-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S407-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q408-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I409-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S410-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P411-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A412-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A413-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I414-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A415-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S416-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N417-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C418-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y419-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S420-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S421-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L422-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I423-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L424-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D425-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y426-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F427-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S428-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y429-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P430-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L431-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S432-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "M433-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K434-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S435-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D436-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L437-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S438-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V439-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S440-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S441-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A442-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G443-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P444-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I445-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S446-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q447-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F448-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N449-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y450-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K451-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q452-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S453-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F454-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S455-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N456-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P457-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T458-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C459-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L460-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I461-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L462-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A463-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T464-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V465-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P466-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "H467-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N468-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L469-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T470-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T471-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I472-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T473-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K474-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P475-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L476-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K477-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y478-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S479-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y480-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I481-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N482-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K483-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C484-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S485-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R486-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L487-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L488-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S489-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D490-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D491-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R492-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T493-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "E494-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V495-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P496-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q497-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L498-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V499-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N500-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A501-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N502-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q503-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y504-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S505-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P506-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C507-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V508-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S509-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I510-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V511-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P512-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S513-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T514-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V515-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R595-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G596-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V597-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F598-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q599-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N600-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C601-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T602-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A603-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V604-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G605-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V606-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R607-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q608-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q609-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R610-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F611-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V612-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y613-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D614-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A615-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y616-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q617-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N618-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L619-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V620-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G621-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y622-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y623-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S624-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D625-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D626-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G627-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N628-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y629-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y630-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C631-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L632-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R633-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A634-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C635-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V636-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S637-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V638-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P639-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V640-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S641-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V642-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I643-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y644-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D645-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K646-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "E647-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T648-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K649-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T650-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "H651-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A652-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T653-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L654-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F655-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G656-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S657-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V658-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A659-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C660-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "E661-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "H662-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "I663-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "X664-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S665-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T666-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "M667-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S668-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q669-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y670-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S671-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R672-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S673-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T674-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R675-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S676-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "M677-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L678-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K679-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R680-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R681-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D682-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S683-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T684-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y685-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G686-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P687-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L688-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q689-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T690-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P691-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V692-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G693-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C694-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V695-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L696-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G697-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L698-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V699-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N700-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S701-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S702-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L703-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "F704-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V705-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "E706-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D707-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C708-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "K709-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L710-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P711-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L712-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G713-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q714-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S715-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L716-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "C717-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A718-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L719-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P720-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D721-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T722-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P723-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S724-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T725-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L726-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T727-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P728-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R729-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S730-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V731-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R732-": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L487F": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "X664S": {
+        "camel": 1,
+        "human": 11,
+        "human_wo": 556,
+        "camel_wo": 412
+    },
+    "S32F": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D490G": {
+        "camel": 0,
+        "human": 3,
+        "human_wo": 564,
+        "camel_wo": 413
+    },
+    "V7F": {
+        "camel": 29,
+        "human": 17,
+        "human_wo": 550,
+        "camel_wo": 384
+    },
+    "S593L": {
+        "camel": 12,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 401
+    },
+    "K381N": {
+        "camel": 3,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 410
+    },
+    "A293S": {
+        "camel": 2,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 411
+    },
+    "A501S": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "R607L": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "T727A": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "S724I": {
+        "camel": 1,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 412
+    },
+    "F454S": {
+        "camel": 41,
+        "human": 22,
+        "human_wo": 545,
+        "camel_wo": 372
+    },
+    "Y182H": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "F704S": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "V355F": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q503H": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N147Y": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V515A": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "S114N": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A412P": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A463V": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N563I": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y39H": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "F7V": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "L593S": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "A317S": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N106Y": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V362F": {
+        "camel": 0,
+        "human": 3,
+        "human_wo": 564,
+        "camel_wo": 413
+    },
+    "V495L": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "S438G": {
+        "camel": 3,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 410
+    },
+    "T725P": {
+        "camel": 5,
+        "human": 3,
+        "human_wo": 564,
+        "camel_wo": 408
+    },
+    "Q285K": {
+        "camel": 2,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 411
+    },
+    "Q79R": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "N387S": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P466S": {
+        "camel": 2,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 411
+    },
+    "M667I": {
+        "camel": 2,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 411
+    },
+    "S668F": {
+        "camel": 8,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 405
+    },
+    "S446F": {
+        "camel": 7,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 406
+    },
+    "Y224F": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "D89N": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S9P": {
+        "camel": 45,
+        "human": 6,
+        "human_wo": 561,
+        "camel_wo": 368
+    },
+    "P691S": {
+        "camel": 56,
+        "human": 7,
+        "human_wo": 560,
+        "camel_wo": 357
+    },
+    "S440T": {
+        "camel": 59,
+        "human": 8,
+        "human_wo": 559,
+        "camel_wo": 354
+    },
+    "P723H": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L488P": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "V515L": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S205I": {
+        "camel": 0,
+        "human": 3,
+        "human_wo": 564,
+        "camel_wo": 413
+    },
+    "E13A": {
+        "camel": 0,
+        "human": 4,
+        "human_wo": 563,
+        "camel_wo": 413
+    },
+    "T727K": {
+        "camel": 0,
+        "human": 4,
+        "human_wo": 563,
+        "camel_wo": 413
+    },
+    "M677K": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D491G": {
+        "camel": 0,
+        "human": 7,
+        "human_wo": 560,
+        "camel_wo": 413
+    },
+    "P9S": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "T440S": {
+        "camel": 4,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 409
+    },
+    "S691P": {
+        "camel": 4,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 409
+    },
+    "T602S": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "E517K": {
+        "camel": 1,
+        "human": 3,
+        "human_wo": 564,
+        "camel_wo": 412
+    },
+    "Y670H": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "L392F": {
+        "camel": 3,
+        "human": 39,
+        "human_wo": 528,
+        "camel_wo": 410
+    },
+    "P4S": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "H72Y": {
+        "camel": 0,
+        "human": 4,
+        "human_wo": 563,
+        "camel_wo": 413
+    },
+    "C566S": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Y295C": {
+        "camel": 2,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 411
+    },
+    "R729C": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S540P": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R282C": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "S116F": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S87F": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "H175Y": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T223I": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S441F": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "T541I": {
+        "camel": 0,
+        "human": 4,
+        "human_wo": 563,
+        "camel_wo": 413
+    },
+    "H189Y": {
+        "camel": 1,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 412
+    },
+    "V556F": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "S181F": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S132C": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V620L": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D518E": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D194N": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "I124F": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "Q79K": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "K350I": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "Q617H": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "A192S": {
+        "camel": 2,
+        "human": 3,
+        "human_wo": 564,
+        "camel_wo": 411
+    },
+    "M65R": {
+        "camel": 2,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 411
+    },
+    "A442S": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "N203Y": {
+        "camel": 0,
+        "human": 4,
+        "human_wo": 563,
+        "camel_wo": 413
+    },
+    "A537V": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "T76I": {
+        "camel": 14,
+        "human": 9,
+        "human_wo": 558,
+        "camel_wo": 399
+    },
+    "F209L": {
+        "camel": 30,
+        "human": 24,
+        "human_wo": 543,
+        "camel_wo": 383
+    },
+    "L398H": {
+        "camel": 8,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 405
+    },
+    "Y426X": {
+        "camel": 0,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 413
+    },
+    "S397L": {
+        "camel": 8,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 405
+    },
+    "L209F": {
+        "camel": 5,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 408
+    },
+    "S454F": {
+        "camel": 4,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 409
+    },
+    "S421P": {
+        "camel": 0,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 413
+    },
+    "V7L": {
+        "camel": 5,
+        "human": 10,
+        "human_wo": 557,
+        "camel_wo": 408
+    },
+    "S107A": {
+        "camel": 0,
+        "human": 23,
+        "human_wo": 544,
+        "camel_wo": 413
+    },
+    "L265F": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "K709N": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "M65I": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "R144L": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "G353A": {
+        "camel": 0,
+        "human": 3,
+        "human_wo": 564,
+        "camel_wo": 413
+    },
+    "V244A": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D520N": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S118R": {
+        "camel": 0,
+        "human": 3,
+        "human_wo": 564,
+        "camel_wo": 413
+    },
+    "V511L": {
+        "camel": 0,
+        "human": 3,
+        "human_wo": 564,
+        "camel_wo": 413
+    },
+    "E13K": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "I510T": {
+        "camel": 0,
+        "human": 26,
+        "human_wo": 541,
+        "camel_wo": 413
+    },
+    "R610H": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "V699I": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "P368L": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D490H": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T187I": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L569I": {
+        "camel": 0,
+        "human": 3,
+        "human_wo": 564,
+        "camel_wo": 413
+    },
+    "I284F": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P691H": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "M677I": {
+        "camel": 14,
+        "human": 4,
+        "human_wo": 563,
+        "camel_wo": 399
+    },
+    "R122Q": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D15H": {
+        "camel": 3,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 410
+    },
+    "T76S": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "T193I": {
+        "camel": 1,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 412
+    },
+    "Q689E": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "G693S": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "G686S": {
+        "camel": 1,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 412
+    },
+    "A192T": {
+        "camel": 2,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 411
+    },
+    "E360D": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P78S": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "A104S": {
+        "camel": 0,
+        "human": 4,
+        "human_wo": 563,
+        "camel_wo": 413
+    },
+    "L488R": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "L488F": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "N482D": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "F380C": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q609R": {
+        "camel": 0,
+        "human": 4,
+        "human_wo": 563,
+        "camel_wo": 413
+    },
+    "S181Y": {
+        "camel": 0,
+        "human": 4,
+        "human_wo": 563,
+        "camel_wo": 413
+    },
+    "I281T": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "R681L": {
+        "camel": 0,
+        "human": 3,
+        "human_wo": 564,
+        "camel_wo": 413
+    },
+    "W534R": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "S407R": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q714R": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "D139H": {
+        "camel": 2,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 411
+    },
+    "R316T": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V565A": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V592I": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "W25X": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "P26X": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "V90A": {
+        "camel": 2,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 411
+    },
+    "D287G": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S513P": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "H279Y": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S172P": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "V511A": {
+        "camel": 0,
+        "human": 2,
+        "human_wo": 565,
+        "camel_wo": 413
+    },
+    "P368T": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "S114R": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q285R": {
+        "camel": 0,
+        "human": 1,
+        "human_wo": 566,
+        "camel_wo": 413
+    },
+    "Q79L": {
+        "camel": 4,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 409
+    },
+    "I405T": {
+        "camel": 2,
+        "human": 0,
+        "human_wo": 567,
+        "camel_wo": 411
+    }
+}

@@ -1,0 +1,122 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 8
+Rules claiming more threads will be scaled down.
+Job stats:
+job          count
+---------  -------
+align            1
+all              1
+ancestral        1
+export           1
+refine           1
+traits           1
+translate        1
+tree             1
+total            8
+
+Select jobs to execute...
+
+[Mon Jun 10 22:29:33 2024]
+rule align:
+    input: results/filtered.fasta, defaults/mers_reference.fasta, defaults/mers_genemap.gff
+    output: results/aligned.fasta, results/insertions.tsv
+    jobid: 4
+    reason: Missing output files: results/aligned.fasta; Updated input files: results/filtered.fasta, defaults/mers_reference.fasta, defaults/mers_genemap.gff
+    resources: tmpdir=/tmp
+
+[Mon Jun 10 22:29:44 2024]
+Finished job 4.
+1 of 8 steps (12%) done
+Select jobs to execute...
+
+[Mon Jun 10 22:29:44 2024]
+rule tree:
+    input: results/aligned.fasta
+    output: results/tree_raw.nwk
+    jobid: 3
+    reason: Input files updated by another job: results/aligned.fasta
+    resources: tmpdir=/tmp
+
+[Mon Jun 10 22:32:36 2024]
+Finished job 3.
+2 of 8 steps (25%) done
+Select jobs to execute...
+
+[Mon Jun 10 22:32:36 2024]
+rule refine:
+    input: results/tree_raw.nwk, results/aligned.fasta, results/metadata.tsv
+    output: results/tree.nwk, results/branch_lengths.json
+    jobid: 2
+    reason: Input files updated by another job: results/aligned.fasta, results/tree_raw.nwk
+    resources: tmpdir=/tmp
+
+[Mon Jun 10 22:49:05 2024]
+Finished job 2.
+3 of 8 steps (38%) done
+Select jobs to execute...
+
+[Mon Jun 10 22:49:05 2024]
+rule traits:
+    input: results/tree.nwk, results/metadata.tsv
+    output: results/traits.json
+    jobid: 7
+    reason: Input files updated by another job: results/tree.nwk
+    resources: tmpdir=/tmp
+
+
+[Mon Jun 10 22:49:06 2024]
+rule ancestral:
+    input: results/tree.nwk, results/aligned.fasta
+    output: results/nt_muts.json
+    log: logs/ancestral.txt
+    jobid: 8
+    reason: Input files updated by another job: results/aligned.fasta, results/tree.nwk
+    resources: tmpdir=/tmp
+
+[Mon Jun 10 22:49:41 2024]
+Finished job 7.
+4 of 8 steps (50%) done
+[Mon Jun 10 22:52:41 2024]
+Finished job 8.
+5 of 8 steps (62%) done
+Select jobs to execute...
+
+[Mon Jun 10 22:52:41 2024]
+rule translate:
+    input: results/tree.nwk, results/nt_muts.json, defaults/mers_genemap.gff
+    output: results/aa_muts.json
+    log: logs/translate.txt
+    jobid: 9
+    reason: Input files updated by another job: results/tree.nwk, results/nt_muts.json
+    resources: tmpdir=/tmp
+
+[Mon Jun 10 22:53:22 2024]
+Finished job 9.
+6 of 8 steps (75%) done
+Select jobs to execute...
+
+[Mon Jun 10 22:53:22 2024]
+rule export:
+    input: results/tree.nwk, results/metadata.tsv, defaults/colors.tsv, results/branch_lengths.json, results/traits.json, results/nt_muts.json, results/aa_muts.json, defaults/auspice_config.json
+    output: auspice/mers.json
+    jobid: 1
+    reason: Input files updated by another job: results/nt_muts.json, results/traits.json, results/tree.nwk, results/branch_lengths.json, results/aa_muts.json
+    resources: tmpdir=/tmp
+
+[Mon Jun 10 22:53:35 2024]
+Finished job 1.
+7 of 8 steps (88%) done
+Select jobs to execute...
+
+[Mon Jun 10 22:53:35 2024]
+localrule all:
+    input: auspice/mers.json
+    jobid: 0
+    reason: Input files updated by another job: auspice/mers.json
+    resources: tmpdir=/tmp
+
+[Mon Jun 10 22:53:35 2024]
+Finished job 0.
+8 of 8 steps (100%) done
+Complete log: .snakemake/log/2024-06-10T222932.346505.snakemake.log

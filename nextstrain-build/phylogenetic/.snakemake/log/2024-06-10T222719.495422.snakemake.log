@@ -1,0 +1,42 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 8
+Rules claiming more threads will be scaled down.
+Job stats:
+job          count
+---------  -------
+align            1
+all              1
+ancestral        1
+export           1
+refine           1
+traits           1
+translate        1
+tree             1
+total            8
+
+Select jobs to execute...
+
+[Mon Jun 10 22:27:21 2024]
+rule align:
+    input: results/filtered.fasta, defaults/mers_reference.fasta, defaults/mers_genemap.gff
+    output: results/aligned.fasta, results/insertions.tsv
+    jobid: 4
+    reason: Missing output files: results/aligned.fasta; Updated input files: defaults/mers_genemap.gff, defaults/mers_reference.fasta, results/filtered.fasta
+    resources: tmpdir=/tmp
+
+[Mon Jun 10 22:27:21 2024]
+Error in rule align:
+    jobid: 4
+    input: results/filtered.fasta, defaults/mers_reference.fasta, defaults/mers_genemap.gff
+    output: results/aligned.fasta, results/insertions.tsv
+    shell:
+        
+          nextclade run               --input-ref defaults/mers_reference.fasta               --input-annotation defaults/mers_genemap.gff               --output-fasta -               --output-tsv results/insertions.tsv               results/filtered.fasta           | seqkit seq -i > results/aligned.fasta         
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Removing output files of failed job align since they might be corrupted:
+results/aligned.fasta
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2024-06-10T222719.495422.snakemake.log
