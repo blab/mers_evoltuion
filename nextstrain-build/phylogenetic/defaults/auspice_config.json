@@ -38,8 +38,6 @@
     "filters": [
       "host",
       "region",
-      "country",
-      "strain",
-      "strain_name"
+      "country"
     ]
   }
