@@ -1,0 +1,37 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 8
+Rules claiming more threads will be scaled down.
+Job stats:
+job       count
+------  -------
+all           1
+export        1
+total         2
+
+Select jobs to execute...
+
+[Thu Jun 13 21:23:21 2024]
+rule export:
+    input: results/tree.nwk, results/metadata.tsv, defaults/colors.tsv, results/branch_lengths.json, results/traits.json, results/nt_muts.json, results/aa_muts.json, defaults/auspice_config.json
+    output: auspice/mers.json
+    jobid: 1
+    reason: Updated input files: defaults/auspice_config.json
+    resources: tmpdir=/tmp
+
+[Thu Jun 13 21:23:24 2024]
+Finished job 1.
+1 of 2 steps (50%) done
+Select jobs to execute...
+
+[Thu Jun 13 21:23:24 2024]
+localrule all:
+    input: auspice/mers.json
+    jobid: 0
+    reason: Input files updated by another job: auspice/mers.json
+    resources: tmpdir=/tmp
+
+[Thu Jun 13 21:23:24 2024]
+Finished job 0.
+2 of 2 steps (100%) done
+Complete log: .snakemake/log/2024-06-13T212320.376751.snakemake.log

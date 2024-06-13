@@ -1,0 +1,3 @@
+1655 strains were dropped during filtering
+	1655 were dropped by `--exclude-all`
+ERROR: All samples have been dropped! Check filter rules and metadata file format.

@@ -1,0 +1,17 @@
+# This configuration file should contain all required configuration parameters
+# for the phylogenetic workflow to run to completion.
+#
+# Define optional config parameters with their default values here so that users
+# do not have to dig through the workflows to figure out the default values
+filter:
+  min_length: 3000
+
+subsampling:
+  not_human: "host != 'Human'"
+  not_human_max: 1000
+  human: "host == 'Human'"
+  human_group: ['country', 'year']
+  sequences_per_group: 10
+
+traits:
+  columns: "host country"

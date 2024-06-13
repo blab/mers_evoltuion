@@ -1,0 +1,29 @@
+Map from character to field name
+A:	Bat
+B:	Camel
+C:	Human
+D:	Llama
+E:	?
+
+
+Substitution rate (mu): 44.622853
+
+Equilibrium frequencies (pi_i):
+  A: 0.2598
+  B: 0.3994
+  C: 0.141
+  D: 0.1998
+
+Symmetrized rates from j->i (W_ij):
+	A	B	C	D
+  A	0	0.8128	0.8362	0.2144
+  B	0.8128	0	6.1537	0.2499
+  C	0.8362	6.1537	0	0.2635
+  D	0.2144	0.2499	0.2635	0
+
+Actual rates from j->i (Q_ij):
+	A	B	C	D
+  A	0	0.2112	0.2173	0.0557
+  B	0.3246	0	2.4578	0.0998
+  C	0.1179	0.8676	0	0.0372
+  D	0.0428	0.0499	0.0526	0
