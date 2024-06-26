@@ -1,0 +1,284 @@
+Building DAG of jobs...
+Using shell: /Users/katekistler/.nextstrain/runtimes/conda/env/bin/bash
+Provided cores: 8
+Rules claiming more threads will be scaled down.
+Job stats:
+job                 count
+----------------  -------
+align                   2
+all                     1
+ancestral               2
+export                  2
+filter                  2
+refine                  2
+tidy_host_column        2
+traits                  2
+translate               2
+tree                    2
+total                  19
+
+Select jobs to execute...
+
+[Tue Jun 25 13:38:03 2024]
+rule tidy_host_column:
+    input: ../ingest/results/metadata.tsv
+    output: results/Asia/metadata.tsv
+    jobid: 15
+    reason: Code has changed since last execution
+    wildcards: region=Asia
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+
+[Tue Jun 25 13:38:03 2024]
+rule tidy_host_column:
+    input: ../ingest/results/metadata.tsv
+    output: results/Africa/metadata.tsv
+    jobid: 6
+    reason: Code has changed since last execution
+    wildcards: region=Africa
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+[Tue Jun 25 13:38:14 2024]
+Finished job 6.
+1 of 19 steps (5%) done
+[Tue Jun 25 13:38:14 2024]
+Finished job 15.
+2 of 19 steps (11%) done
+Select jobs to execute...
+
+[Tue Jun 25 13:38:14 2024]
+rule filter:
+    input: ../ingest/results/sequences.fasta, results/Africa/metadata.tsv, defaults/dropped_strains.txt
+    output: results/Africa/filtered.fasta
+    jobid: 5
+    reason: Input files updated by another job: results/Africa/metadata.tsv
+    wildcards: region=Africa
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+
+[Tue Jun 25 13:38:14 2024]
+rule filter:
+    input: ../ingest/results/sequences.fasta, results/Asia/metadata.tsv, defaults/dropped_strains.txt
+    output: results/Asia/filtered.fasta
+    jobid: 14
+    reason: Input files updated by another job: results/Asia/metadata.tsv
+    wildcards: region=Asia
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+[Tue Jun 25 13:38:34 2024]
+Finished job 5.
+3 of 19 steps (16%) done
+Select jobs to execute...
+
+[Tue Jun 25 13:38:34 2024]
+rule align:
+    input: results/Africa/filtered.fasta, defaults/mers_reference.fasta, defaults/mers_genemap.gff
+    output: results/Africa/aligned.fasta, results/Africa/insertions.tsv
+    jobid: 4
+    reason: Missing output files: results/Africa/aligned.fasta; Input files updated by another job: results/Africa/filtered.fasta
+    wildcards: region=Africa
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+[Tue Jun 25 13:38:34 2024]
+Finished job 14.
+4 of 19 steps (21%) done
+Select jobs to execute...
+
+[Tue Jun 25 13:38:34 2024]
+rule align:
+    input: results/Asia/filtered.fasta, defaults/mers_reference.fasta, defaults/mers_genemap.gff
+    output: results/Asia/aligned.fasta, results/Asia/insertions.tsv
+    jobid: 13
+    reason: Missing output files: results/Asia/aligned.fasta; Input files updated by another job: results/Asia/filtered.fasta
+    wildcards: region=Asia
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+[Tue Jun 25 13:38:36 2024]
+Finished job 4.
+5 of 19 steps (26%) done
+Select jobs to execute...
+
+[Tue Jun 25 13:38:36 2024]
+rule tree:
+    input: results/Africa/aligned.fasta
+    output: results/Africa/tree_raw.nwk
+    jobid: 3
+    reason: Missing output files: results/Africa/tree_raw.nwk; Input files updated by another job: results/Africa/aligned.fasta
+    wildcards: region=Africa
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+[Tue Jun 25 13:38:36 2024]
+Finished job 13.
+6 of 19 steps (32%) done
+Select jobs to execute...
+
+[Tue Jun 25 13:38:36 2024]
+rule tree:
+    input: results/Asia/aligned.fasta
+    output: results/Asia/tree_raw.nwk
+    jobid: 12
+    reason: Missing output files: results/Asia/tree_raw.nwk; Input files updated by another job: results/Asia/aligned.fasta
+    wildcards: region=Asia
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+[Tue Jun 25 13:38:39 2024]
+Finished job 3.
+7 of 19 steps (37%) done
+Select jobs to execute...
+
+[Tue Jun 25 13:38:39 2024]
+rule refine:
+    input: results/Africa/tree_raw.nwk, results/Africa/aligned.fasta, results/Africa/metadata.tsv
+    output: results/Africa/tree.nwk, results/Africa/branch_lengths.json
+    jobid: 2
+    reason: Missing output files: results/Africa/branch_lengths.json, results/Africa/tree.nwk; Input files updated by another job: results/Africa/tree_raw.nwk, results/Africa/aligned.fasta, results/Africa/metadata.tsv
+    wildcards: region=Africa
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+[Tue Jun 25 13:38:43 2024]
+Finished job 12.
+8 of 19 steps (42%) done
+Select jobs to execute...
+
+[Tue Jun 25 13:38:43 2024]
+rule refine:
+    input: results/Asia/tree_raw.nwk, results/Asia/aligned.fasta, results/Asia/metadata.tsv
+    output: results/Asia/tree.nwk, results/Asia/branch_lengths.json
+    jobid: 11
+    reason: Missing output files: results/Asia/branch_lengths.json, results/Asia/tree.nwk; Input files updated by another job: results/Asia/tree_raw.nwk, results/Asia/metadata.tsv, results/Asia/aligned.fasta
+    wildcards: region=Asia
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+[Tue Jun 25 13:38:56 2024]
+Finished job 2.
+9 of 19 steps (47%) done
+Select jobs to execute...
+
+[Tue Jun 25 13:38:56 2024]
+rule ancestral:
+    input: results/Africa/tree.nwk, results/Africa/aligned.fasta
+    output: results/Africa/nt_muts.json
+    log: logs/Africa/ancestral.txt
+    jobid: 8
+    reason: Missing output files: results/Africa/nt_muts.json; Input files updated by another job: results/Africa/aligned.fasta, results/Africa/tree.nwk
+    wildcards: region=Africa
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+
+[Tue Jun 25 13:38:56 2024]
+rule traits:
+    input: results/Africa/tree.nwk, results/Africa/metadata.tsv
+    output: results/Africa/traits.json
+    jobid: 7
+    reason: Missing output files: results/Africa/traits.json; Input files updated by another job: results/Africa/metadata.tsv, results/Africa/tree.nwk
+    wildcards: region=Africa
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+[Tue Jun 25 13:38:58 2024]
+Finished job 7.
+10 of 19 steps (53%) done
+[Tue Jun 25 13:39:00 2024]
+Finished job 8.
+11 of 19 steps (58%) done
+Select jobs to execute...
+
+[Tue Jun 25 13:39:00 2024]
+rule translate:
+    input: results/Africa/tree.nwk, results/Africa/nt_muts.json, defaults/mers_genemap.gff
+    output: results/Africa/aa_muts.json
+    log: logs/Africa/translate.txt
+    jobid: 9
+    reason: Missing output files: results/Africa/aa_muts.json; Input files updated by another job: results/Africa/nt_muts.json, results/Africa/tree.nwk
+    wildcards: region=Africa
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+[Tue Jun 25 13:39:02 2024]
+Finished job 9.
+12 of 19 steps (63%) done
+Select jobs to execute...
+
+[Tue Jun 25 13:39:02 2024]
+rule export:
+    input: results/Africa/tree.nwk, results/Africa/metadata.tsv, defaults/colors.tsv, results/Africa/branch_lengths.json, results/Africa/traits.json, results/Africa/nt_muts.json, results/Africa/aa_muts.json, defaults/auspice_config.json
+    output: auspice/mers_Africa.json
+    jobid: 1
+    reason: Missing output files: auspice/mers_Africa.json; Input files updated by another job: results/Africa/branch_lengths.json, results/Africa/tree.nwk, results/Africa/nt_muts.json, results/Africa/traits.json, results/Africa/metadata.tsv, results/Africa/aa_muts.json
+    wildcards: region=Africa
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+[Tue Jun 25 13:39:03 2024]
+Finished job 1.
+13 of 19 steps (68%) done
+[Tue Jun 25 13:40:16 2024]
+Finished job 11.
+14 of 19 steps (74%) done
+Select jobs to execute...
+
+[Tue Jun 25 13:40:16 2024]
+rule traits:
+    input: results/Asia/tree.nwk, results/Asia/metadata.tsv
+    output: results/Asia/traits.json
+    jobid: 16
+    reason: Missing output files: results/Asia/traits.json; Input files updated by another job: results/Asia/metadata.tsv, results/Asia/tree.nwk
+    wildcards: region=Asia
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+
+[Tue Jun 25 13:40:16 2024]
+rule ancestral:
+    input: results/Asia/tree.nwk, results/Asia/aligned.fasta
+    output: results/Asia/nt_muts.json
+    log: logs/Asia/ancestral.txt
+    jobid: 17
+    reason: Missing output files: results/Asia/nt_muts.json; Input files updated by another job: results/Asia/aligned.fasta, results/Asia/tree.nwk
+    wildcards: region=Asia
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+[Tue Jun 25 13:40:19 2024]
+Finished job 16.
+15 of 19 steps (79%) done
+[Tue Jun 25 13:40:27 2024]
+Finished job 17.
+16 of 19 steps (84%) done
+Select jobs to execute...
+
+[Tue Jun 25 13:40:27 2024]
+rule translate:
+    input: results/Asia/tree.nwk, results/Asia/nt_muts.json, defaults/mers_genemap.gff
+    output: results/Asia/aa_muts.json
+    log: logs/Asia/translate.txt
+    jobid: 18
+    reason: Missing output files: results/Asia/aa_muts.json; Input files updated by another job: results/Asia/nt_muts.json, results/Asia/tree.nwk
+    wildcards: region=Asia
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+[Tue Jun 25 13:40:32 2024]
+Finished job 18.
+17 of 19 steps (89%) done
+Select jobs to execute...
+
+[Tue Jun 25 13:40:32 2024]
+rule export:
+    input: results/Asia/tree.nwk, results/Asia/metadata.tsv, defaults/colors.tsv, results/Asia/branch_lengths.json, results/Asia/traits.json, results/Asia/nt_muts.json, results/Asia/aa_muts.json, defaults/auspice_config.json
+    output: auspice/mers_Asia.json
+    jobid: 10
+    reason: Missing output files: auspice/mers_Asia.json; Input files updated by another job: results/Asia/nt_muts.json, results/Asia/metadata.tsv, results/Asia/branch_lengths.json, results/Asia/tree.nwk, results/Asia/aa_muts.json, results/Asia/traits.json
+    wildcards: region=Asia
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+[Tue Jun 25 13:40:33 2024]
+Finished job 10.
+18 of 19 steps (95%) done
+Select jobs to execute...
+
+[Tue Jun 25 13:40:33 2024]
+localrule all:
+    input: auspice/mers_Africa.json, auspice/mers_Asia.json
+    jobid: 0
+    reason: Input files updated by another job: auspice/mers_Africa.json, auspice/mers_Asia.json
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+[Tue Jun 25 13:40:33 2024]
+Finished job 0.
+19 of 19 steps (100%) done
+Complete log: .snakemake/log/2024-06-25T133756.312461.snakemake.log

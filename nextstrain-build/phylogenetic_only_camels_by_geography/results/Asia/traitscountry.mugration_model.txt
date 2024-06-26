@@ -1,0 +1,33 @@
+Map from character to field name
+A:	Jordan
+B:	Oman
+C:	Qatar
+D:	Saudi Arabia
+E:	United Arab Emirates
+F:	?
+
+
+Substitution rate (mu): 18.39309
+
+Equilibrium frequencies (pi_i):
+  A: 0.1919
+  B: 0.1865
+  C: 0.1891
+  D: 0.2066
+  E: 0.2258
+
+Symmetrized rates from j->i (W_ij):
+	A	B	C	D	E
+  A	0	0.6387	0.6386	0.9355	0.6191
+  B	0.6387	0	0.6398	0.6235	0.9335
+  C	0.6386	0.6398	0	0.9368	0.6207
+  D	0.9355	0.6235	0.9368	0	5.1646
+  E	0.6191	0.9335	0.6207	5.1646	0
+
+Actual rates from j->i (Q_ij):
+	A	B	C	D	E
+  A	0	0.1226	0.1225	0.1795	0.1188
+  B	0.1191	0	0.1193	0.1163	0.1741
+  C	0.1208	0.121	0	0.1772	0.1174
+  D	0.1933	0.1288	0.1936	0	1.0672
+  E	0.1398	0.2108	0.1402	1.1663	0

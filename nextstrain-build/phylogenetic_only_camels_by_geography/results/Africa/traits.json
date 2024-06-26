@@ -1,0 +1,1229 @@
+{
+  "generated_by": {
+    "program": "augur",
+    "version": "24.4.0"
+  },
+  "models": {
+    "country": {
+      "alphabet": [
+        "Burkina Faso",
+        "Egypt",
+        "Ethiopia",
+        "Kenya",
+        "Morocco",
+        "Nigeria",
+        "?"
+      ],
+      "equilibrium_probabilities": [
+        0.15154874967498647,
+        0.15831900405648666,
+        0.1874154703487834,
+        0.1983514685576169,
+        0.14998055978259417,
+        0.1543847475795324
+      ],
+      "rate": 60.75922965569735,
+      "transition_matrix": [
+        [
+          0.0,
+          1.2738600540316465,
+          0.8439228184788987,
+          0.8351542529087066,
+          1.2889500041137267,
+          1.3103339791219057
+        ],
+        [
+          1.2738600540316465,
+          0.0,
+          2.007003682722282,
+          0.8361468984465362,
+          0.8576106471713998,
+          0.8635906882258078
+        ],
+        [
+          0.8439228184788987,
+          2.007003682722282,
+          0.0,
+          3.1110717698534165,
+          0.8339751044321567,
+          0.8325877811747663
+        ],
+        [
+          0.8351542529087066,
+          0.8361468984465362,
+          3.1110717698534165,
+          0.0,
+          0.8356146570818319,
+          0.8340975123552444
+        ],
+        [
+          1.2889500041137267,
+          0.8576106471713998,
+          0.8339751044321567,
+          0.8356146570818319,
+          0.0,
+          0.8440352179645775
+        ],
+        [
+          1.3103339791219057,
+          0.8635906882258078,
+          0.8325877811747663,
+          0.8340975123552444,
+          0.8440352179645775,
+          0.0
+        ]
+      ]
+    }
+  },
+  "nodes": {
+    "KJ477102": {
+      "country": "Egypt",
+      "country_confidence": {
+        "Egypt": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "KJ477103": {
+      "country": "Egypt",
+      "country_confidence": {
+        "Egypt": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "KU201953": {
+      "country": "Nigeria",
+      "country_confidence": {
+        "Nigeria": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "KU201959": {
+      "country": "Nigeria",
+      "country_confidence": {
+        "Nigeria": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "KU740200": {
+      "country": "Egypt",
+      "country_confidence": {
+        "Egypt": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MG923465": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MG923466": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MG923467": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MG923468": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MG923469": {
+      "country": "Morocco",
+      "country_confidence": {
+        "Morocco": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MG923470": {
+      "country": "Burkina Faso",
+      "country_confidence": {
+        "Burkina Faso": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MG923471": {
+      "country": "Burkina Faso",
+      "country_confidence": {
+        "Burkina Faso": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MG923472": {
+      "country": "Nigeria",
+      "country_confidence": {
+        "Nigeria": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MG923473": {
+      "country": "Burkina Faso",
+      "country_confidence": {
+        "Burkina Faso": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MG923474": {
+      "country": "Nigeria",
+      "country_confidence": {
+        "Nigeria": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MG923475": {
+      "country": "Nigeria",
+      "country_confidence": {
+        "Nigeria": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MG923476": {
+      "country": "Nigeria",
+      "country_confidence": {
+        "Nigeria": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MG923477": {
+      "country": "Nigeria",
+      "country_confidence": {
+        "Nigeria": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13,
+      "host": "Camel"
+    },
+    "MG923478": {
+      "country": "Nigeria",
+      "country_confidence": {
+        "Nigeria": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MG923479": {
+      "country": "Nigeria",
+      "country_confidence": {
+        "Nigeria": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MG923480": {
+      "country": "Nigeria",
+      "country_confidence": {
+        "Nigeria": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MG923481": {
+      "country": "Nigeria",
+      "country_confidence": {
+        "Nigeria": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MH734114": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MH734115": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MK357908": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MK357909": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MK564474": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MK564475": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MK967708": {
+      "country": "Egypt",
+      "country_confidence": {
+        "Egypt": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MZ268404": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "MZ268405": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "NODE_0000000": {
+      "country": "Nigeria",
+      "country_confidence": {
+        "Nigeria": 0.9999981796465504
+      },
+      "country_entropy": 2.6319652665290783e-05,
+      "host": "Camel"
+    },
+    "NODE_0000001": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Burkina Faso": 0.009145882073050886,
+        "Egypt": 0.47589485121828623,
+        "Ethiopia": 0.5015077388896511,
+        "Kenya": 0.009421188846156985
+      },
+      "country_entropy": 0.8113860826595367,
+      "host": "Camel"
+    },
+    "NODE_0000002": {
+      "country": "Nigeria",
+      "country_confidence": {
+        "Burkina Faso": 0.01218191975057959,
+        "Nigeria": 0.9872237470175006
+      },
+      "country_entropy": 0.07148659941489681,
+      "host": "Camel"
+    },
+    "NODE_0000003": {
+      "country": "Nigeria",
+      "country_confidence": {
+        "Nigeria": 0.9998439056787315
+      },
+      "country_entropy": 0.0015751473537909998,
+      "host": "Camel"
+    },
+    "NODE_0000004": {
+      "country": "Nigeria",
+      "country_confidence": {
+        "Nigeria": 0.9999937866395135
+      },
+      "country_entropy": 8.837354376330354e-05,
+      "host": "Camel"
+    },
+    "NODE_0000005": {
+      "country": "Nigeria",
+      "country_confidence": {
+        "Nigeria": 0.999995680335081
+      },
+      "country_entropy": 6.395884992213521e-05,
+      "host": "Camel"
+    },
+    "NODE_0000006": {
+      "country": "Nigeria",
+      "country_confidence": {
+        "Nigeria": 0.9999999326983172
+      },
+      "country_entropy": 1.2484853859217874e-06,
+      "host": "Camel"
+    },
+    "NODE_0000007": {
+      "country": "Nigeria",
+      "country_confidence": {
+        "Nigeria": 0.9999957466367718
+      },
+      "country_entropy": 6.306063663038527e-05,
+      "host": "Camel"
+    },
+    "NODE_0000008": {
+      "country": "Egypt",
+      "country_confidence": {
+        "Egypt": 0.9999868347035703
+      },
+      "country_entropy": 0.00017423864445584224,
+      "host": "Camel"
+    },
+    "NODE_0000009": {
+      "country": "Nigeria",
+      "country_confidence": {
+        "Nigeria": 0.9999957466367718
+      },
+      "country_entropy": 6.306063663038527e-05,
+      "host": "Camel"
+    },
+    "NODE_0000010": {
+      "country": "Burkina Faso",
+      "country_confidence": {
+        "Burkina Faso": 0.8748869861893918,
+        "Egypt": 0.027973690557906772,
+        "Morocco": 0.008199104117949742,
+        "Nigeria": 0.08721250277837173
+      },
+      "country_entropy": 0.48116229821183004,
+      "host": "Camel"
+    },
+    "NODE_0000011": {
+      "country": "Burkina Faso",
+      "country_confidence": {
+        "Burkina Faso": 0.8616618732478771,
+        "Egypt": 0.08120194012642748,
+        "Morocco": 0.02267736692908771,
+        "Nigeria": 0.031543933662724837
+      },
+      "country_entropy": 0.5455520724471526,
+      "host": "Camel"
+    },
+    "NODE_0000012": {
+      "country": "Burkina Faso",
+      "country_confidence": {
+        "Burkina Faso": 0.8965799346428542,
+        "Egypt": 0.02813166898410889,
+        "Morocco": 0.06216596955798423,
+        "Nigeria": 0.01135414747701525
+      },
+      "country_entropy": 0.43415564730017525,
+      "host": "Camel"
+    },
+    "NODE_0000013": {
+      "country": "Burkina Faso",
+      "country_confidence": {
+        "Burkina Faso": 0.9990084249919163
+      },
+      "country_entropy": 0.008869235058214757,
+      "host": "Camel"
+    },
+    "NODE_0000014": {
+      "country": "Egypt",
+      "country_confidence": {
+        "Burkina Faso": 0.03635778432591323,
+        "Egypt": 0.9435686121098551,
+        "Ethiopia": 0.017183378241986826,
+        "Nigeria": 0.001281846710253711
+      },
+      "country_entropy": 0.26510013296096313,
+      "host": "Camel"
+    },
+    "NODE_0000015": {
+      "country": "Egypt",
+      "country_confidence": {
+        "Egypt": 0.9989589846434271
+      },
+      "country_entropy": 0.009127877517854887,
+      "host": "Camel"
+    },
+    "NODE_0000016": {
+      "country": "Egypt",
+      "country_confidence": {
+        "Egypt": 0.9999704766487607
+      },
+      "country_entropy": 0.0003677242876382159,
+      "host": "Camel"
+    },
+    "NODE_0000017": {
+      "country": "Egypt",
+      "country_confidence": {
+        "Egypt": 0.9999707547562953
+      },
+      "country_entropy": 0.0003634770823961072,
+      "host": "Camel"
+    },
+    "NODE_0000019": {
+      "country": "Egypt",
+      "country_confidence": {
+        "Egypt": 0.9999870565067612
+      },
+      "country_entropy": 0.0001715717232576785,
+      "host": "Camel"
+    },
+    "NODE_0000020": {
+      "country": "Egypt",
+      "country_confidence": {
+        "Egypt": 0.9999870982800624
+      },
+      "country_entropy": 0.00017101758049741948,
+      "host": "Camel"
+    },
+    "NODE_0000021": {
+      "country": "Egypt",
+      "country_confidence": {
+        "Egypt": 0.9999873163723436
+      },
+      "country_entropy": 0.000168390299952764,
+      "host": "Camel"
+    },
+    "NODE_0000022": {
+      "country": "Egypt",
+      "country_confidence": {
+        "Burkina Faso": 0.013724447126027156,
+        "Egypt": 0.9375365963891347,
+        "Ethiopia": 0.046599109503235,
+        "Kenya": 0.0010086304529700733
+      },
+      "country_entropy": 0.27762205260745465,
+      "host": "Camel"
+    },
+    "NODE_0000023": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Egypt": 0.018479565749908257,
+        "Ethiopia": 0.978724160601102,
+        "Kenya": 0.002467625221689002
+      },
+      "country_entropy": 0.11256442597955997,
+      "host": "Camel"
+    },
+    "NODE_0000024": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9960096049464574,
+        "Kenya": 0.003365578380959573
+      },
+      "country_entropy": 0.027875569518948474,
+      "host": "Camel"
+    },
+    "NODE_0000025": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9997138325596098
+      },
+      "country_entropy": 0.0027571682455606646,
+      "host": "Camel"
+    },
+    "NODE_0000026": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9999284141987095
+      },
+      "country_entropy": 0.0008000136188486696,
+      "host": "Camel"
+    },
+    "NODE_0000027": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9999061133178251
+      },
+      "country_entropy": 0.0010255491027406378,
+      "host": "Camel"
+    },
+    "NODE_0000028": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9999977172960505
+      },
+      "country_entropy": 3.294165003676747e-05,
+      "host": "Camel"
+    },
+    "NODE_0000029": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9999378908710743
+      },
+      "country_entropy": 0.0007050911423254485,
+      "host": "Camel"
+    },
+    "NODE_0000030": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9999378908710743
+      },
+      "country_entropy": 0.0007050911423254485,
+      "host": "Camel"
+    },
+    "NODE_0000032": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9546430281801311,
+        "Kenya": 0.045036153946199704
+      },
+      "country_entropy": 0.18679241032220323,
+      "host": "Camel"
+    },
+    "NODE_0000033": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9983470392230014,
+        "Kenya": 0.0016250959921939295
+      },
+      "country_entropy": 0.01240223229917851,
+      "host": "Camel"
+    },
+    "NODE_0000034": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Ethiopia": 0.03537273392133318,
+        "Kenya": 0.9645022839406806
+      },
+      "country_entropy": 0.1543523951833725,
+      "host": "Camel"
+    },
+    "NODE_0000035": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 0.9999473491278629
+      },
+      "country_entropy": 0.0005722257254768655,
+      "host": "Camel"
+    },
+    "NODE_0000036": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 0.9999449085025953
+      },
+      "country_entropy": 0.0006137256791377341,
+      "host": "Camel"
+    },
+    "NODE_0000038": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Ethiopia": 0.0014053052557954338,
+        "Kenya": 0.9985851801473676
+      },
+      "country_entropy": 0.010765937764654239,
+      "host": "Camel"
+    },
+    "NODE_0000039": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 0.9998964904015176
+      },
+      "country_entropy": 0.0010752553437098004,
+      "host": "Camel"
+    },
+    "NODE_0000040": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 0.9998928210360744
+      },
+      "country_entropy": 0.001109227712152711,
+      "host": "Camel"
+    },
+    "NODE_0000041": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 0.9999430504151533
+      },
+      "country_entropy": 0.0006322345752886287,
+      "host": "Camel"
+    },
+    "NODE_0000042": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Egypt": 0.0012159623547326002,
+        "Ethiopia": 0.9969000674572748,
+        "Kenya": 0.0018706751197606988
+      },
+      "country_entropy": 0.02317080428719263,
+      "host": "Camel"
+    },
+    "NODE_0000043": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Egypt": 0.00127261516009418,
+        "Ethiopia": 0.9985069435095183
+      },
+      "country_entropy": 0.011876443444025903,
+      "host": "Camel"
+    },
+    "NODE_0000044": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Egypt": 0.02682901595451806,
+        "Ethiopia": 0.972346171269061
+      },
+      "country_entropy": 0.13071930649725605,
+      "host": "Camel"
+    },
+    "NODE_0000045": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9998931596610483
+      },
+      "country_entropy": 0.0011702312701741694,
+      "host": "Camel"
+    },
+    "NODE_0000046": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9999302536424958
+      },
+      "country_entropy": 0.0007832436199481716,
+      "host": "Camel"
+    },
+    "NODE_0000047": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9999357128788805
+      },
+      "country_entropy": 0.0007272380504015103,
+      "host": "Camel"
+    },
+    "NODE_0000048": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9999335650138879
+      },
+      "country_entropy": 0.0007489836522868513,
+      "host": "Camel"
+    },
+    "NODE_0000049": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9999358169632369
+      },
+      "country_entropy": 0.0007261693612476185,
+      "host": "Camel"
+    },
+    "NODE_0000050": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9999266598722679
+      },
+      "country_entropy": 0.0008199468737126146,
+      "host": "Camel"
+    },
+    "NODE_0000051": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.999931967919931
+      },
+      "country_entropy": 0.00076538489666152,
+      "host": "Camel"
+    },
+    "NODE_0000052": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9999357653357647
+      },
+      "country_entropy": 0.0007266931755335341,
+      "host": "Camel"
+    },
+    "NODE_0000053": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9999317365776041
+      },
+      "country_entropy": 0.000767760672415309,
+      "host": "Camel"
+    },
+    "NODE_0000054": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9999357578770732
+      },
+      "country_entropy": 0.0007267689011551753,
+      "host": "Camel"
+    },
+    "NODE_0000055": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9789175623209807,
+        "Kenya": 0.02098857315815095
+      },
+      "country_entropy": 0.1028687570569454,
+      "host": "Camel"
+    },
+    "NODE_0000056": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.944308517734945,
+        "Kenya": 0.05535597286385287
+      },
+      "country_entropy": 0.21732792811002005,
+      "host": "Camel"
+    },
+    "NODE_0000057": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9985838551859365,
+        "Kenya": 0.001380151789299836
+      },
+      "country_entropy": 0.010901409456719791,
+      "host": "Camel"
+    },
+    "NODE_0000058": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9998886564974478
+      },
+      "country_entropy": 0.0011772821795452482,
+      "host": "Camel"
+    },
+    "NODE_0000059": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Ethiopia": 0.023716462472347783,
+        "Kenya": 0.9761559696419584
+      },
+      "country_entropy": 0.11360275239370352,
+      "host": "Camel"
+    },
+    "NODE_0000060": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 0.9990983847606775
+      },
+      "country_entropy": 0.007278630402255317,
+      "host": "Camel"
+    },
+    "NODE_0000061": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 0.9990983847606775
+      },
+      "country_entropy": 0.007278630402255317,
+      "host": "Camel"
+    },
+    "NODE_0000062": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9626633304169812,
+        "Kenya": 0.03721908830388796
+      },
+      "country_entropy": 0.1602946376714295,
+      "host": "Camel"
+    },
+    "NODE_0000063": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Ethiopia": 0.4767894665384406,
+        "Kenya": 0.5231820102851764
+      },
+      "country_entropy": 0.6924064505978934,
+      "host": "Camel"
+    },
+    "NODE_0000065": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9747147849962606,
+        "Kenya": 0.02513840014788153
+      },
+      "country_entropy": 0.11899958742968669,
+      "host": "Camel"
+    },
+    "NODE_0000066": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.999017610006796
+      },
+      "country_entropy": 0.007903550590112397,
+      "host": "Camel"
+    },
+    "NODE_0000067": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9999037022346197
+      },
+      "country_entropy": 0.0010361127704007626,
+      "host": "Camel"
+    },
+    "NODE_0000068": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 0.9999990736651444
+      },
+      "country_entropy": 1.3795886760678068e-05,
+      "host": "Camel"
+    },
+    "OK094448": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13,
+      "host": "Camel"
+    },
+    "OK094449": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13,
+      "host": "Camel"
+    },
+    "OK094450": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13,
+      "host": "Camel"
+    },
+    "OK094452": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13,
+      "host": "Camel"
+    },
+    "OK094453": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13,
+      "host": "Camel"
+    },
+    "OP654178": {
+      "country": "Egypt",
+      "country_confidence": {
+        "Egypt": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP654179": {
+      "country": "Egypt",
+      "country_confidence": {
+        "Egypt": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP712623": {
+      "country": "Egypt",
+      "country_confidence": {
+        "Egypt": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP712624": {
+      "country": "Egypt",
+      "country_confidence": {
+        "Egypt": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13,
+      "host": "Camel"
+    },
+    "OP712625": {
+      "country": "Egypt",
+      "country_confidence": {
+        "Egypt": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13,
+      "host": "Camel"
+    },
+    "OP866274": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP866275": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP866276": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP866277": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP866278": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP866279": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP866280": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP866281": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP866282": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP866283": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP866284": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP866285": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP866286": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP866287": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP866288": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP866289": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13,
+      "host": "Camel"
+    },
+    "OP866290": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13,
+      "host": "Camel"
+    },
+    "OP866291": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP866292": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OP866293": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13,
+      "host": "Camel"
+    },
+    "OP866294": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13,
+      "host": "Camel"
+    },
+    "OP906306": {
+      "country": "Egypt",
+      "country_confidence": {
+        "Egypt": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OR742167": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OR742168": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OR742169": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13,
+      "host": "Camel"
+    },
+    "OR742170": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OR742171": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OR742172": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OR742173": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13,
+      "host": "Camel"
+    },
+    "OR742174": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "OR742175": {
+      "country": "Kenya",
+      "country_confidence": {
+        "Kenya": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    },
+    "PP504664": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13,
+      "host": "Camel"
+    },
+    "PP504665": {
+      "country": "Ethiopia",
+      "country_confidence": {
+        "Ethiopia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12,
+      "host": "Camel"
+    }
+  }
+}

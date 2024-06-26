@@ -1,0 +1,136 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 8
+Rules claiming more threads will be scaled down.
+Job stats:
+job          count
+---------  -------
+align            1
+all              1
+ancestral        1
+export           1
+filter           1
+refine           1
+traits           1
+translate        1
+tree             1
+total            9
+
+Select jobs to execute...
+
+[Thu Jun 13 21:05:59 2024]
+rule filter:
+    input: ../ingest/results/sequences.fasta, results/metadata.tsv, defaults/dropped_strains.txt
+    output: results/filtered.fasta
+    jobid: 5
+    reason: Missing output files: results/filtered.fasta
+    resources: tmpdir=/tmp
+
+[Thu Jun 13 21:06:03 2024]
+Finished job 5.
+1 of 9 steps (11%) done
+Select jobs to execute...
+
+[Thu Jun 13 21:06:03 2024]
+rule align:
+    input: results/filtered.fasta, defaults/mers_reference.fasta, defaults/mers_genemap.gff
+    output: results/aligned.fasta, results/insertions.tsv
+    jobid: 4
+    reason: Missing output files: results/aligned.fasta; Input files updated by another job: results/filtered.fasta
+    resources: tmpdir=/tmp
+
+[Thu Jun 13 21:06:05 2024]
+Finished job 4.
+2 of 9 steps (22%) done
+Select jobs to execute...
+
+[Thu Jun 13 21:06:05 2024]
+rule tree:
+    input: results/aligned.fasta
+    output: results/tree_raw.nwk
+    jobid: 3
+    reason: Missing output files: results/tree_raw.nwk; Input files updated by another job: results/aligned.fasta
+    resources: tmpdir=/tmp
+
+[Thu Jun 13 21:06:21 2024]
+Finished job 3.
+3 of 9 steps (33%) done
+Select jobs to execute...
+
+[Thu Jun 13 21:06:21 2024]
+rule refine:
+    input: results/tree_raw.nwk, results/aligned.fasta, results/metadata.tsv
+    output: results/tree.nwk, results/branch_lengths.json
+    jobid: 2
+    reason: Missing output files: results/branch_lengths.json, results/tree.nwk; Input files updated by another job: results/aligned.fasta, results/tree_raw.nwk
+    resources: tmpdir=/tmp
+
+[Thu Jun 13 21:08:56 2024]
+Finished job 2.
+4 of 9 steps (44%) done
+Select jobs to execute...
+
+[Thu Jun 13 21:08:56 2024]
+rule traits:
+    input: results/tree.nwk, results/metadata.tsv
+    output: results/traits.json
+    jobid: 7
+    reason: Missing output files: results/traits.json; Input files updated by another job: results/tree.nwk
+    resources: tmpdir=/tmp
+
+
+[Thu Jun 13 21:08:56 2024]
+rule ancestral:
+    input: results/tree.nwk, results/aligned.fasta
+    output: results/nt_muts.json
+    log: logs/ancestral.txt
+    jobid: 8
+    reason: Missing output files: results/nt_muts.json; Input files updated by another job: results/aligned.fasta, results/tree.nwk
+    resources: tmpdir=/tmp
+
+[Thu Jun 13 21:09:01 2024]
+Finished job 7.
+5 of 9 steps (56%) done
+[Thu Jun 13 21:09:14 2024]
+Finished job 8.
+6 of 9 steps (67%) done
+Select jobs to execute...
+
+[Thu Jun 13 21:09:14 2024]
+rule translate:
+    input: results/tree.nwk, results/nt_muts.json, defaults/mers_genemap.gff
+    output: results/aa_muts.json
+    log: logs/translate.txt
+    jobid: 9
+    reason: Missing output files: results/aa_muts.json; Input files updated by another job: results/nt_muts.json, results/tree.nwk
+    resources: tmpdir=/tmp
+
+[Thu Jun 13 21:09:25 2024]
+Finished job 9.
+7 of 9 steps (78%) done
+Select jobs to execute...
+
+[Thu Jun 13 21:09:25 2024]
+rule export:
+    input: results/tree.nwk, results/metadata.tsv, defaults/colors.tsv, results/branch_lengths.json, results/traits.json, results/nt_muts.json, results/aa_muts.json, defaults/auspice_config.json
+    output: auspice/mers.json
+    jobid: 1
+    reason: Missing output files: auspice/mers.json; Input files updated by another job: results/traits.json, results/aa_muts.json, results/branch_lengths.json, results/nt_muts.json, results/tree.nwk
+    resources: tmpdir=/tmp
+
+[Thu Jun 13 21:09:28 2024]
+Finished job 1.
+8 of 9 steps (89%) done
+Select jobs to execute...
+
+[Thu Jun 13 21:09:28 2024]
+localrule all:
+    input: auspice/mers.json
+    jobid: 0
+    reason: Input files updated by another job: auspice/mers.json
+    resources: tmpdir=/tmp
+
+[Thu Jun 13 21:09:28 2024]
+Finished job 0.
+9 of 9 steps (100%) done
+Complete log: .snakemake/log/2024-06-13T210558.971932.snakemake.log

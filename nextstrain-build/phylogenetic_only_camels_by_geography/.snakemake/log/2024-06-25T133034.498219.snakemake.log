@@ -1,0 +1,122 @@
+Building DAG of jobs...
+Using shell: /Users/katekistler/.nextstrain/runtimes/conda/env/bin/bash
+Provided cores: 8
+Rules claiming more threads will be scaled down.
+Job stats:
+job                 count
+----------------  -------
+align                   2
+all                     1
+ancestral               2
+export                  2
+filter                  2
+refine                  2
+tidy_host_column        2
+traits                  2
+translate               2
+tree                    2
+total                  19
+
+Select jobs to execute...
+
+[Tue Jun 25 13:30:35 2024]
+rule tidy_host_column:
+    input: ../ingest/results/metadata.tsv
+    output: results/Africa/metadata.tsv
+    jobid: 6
+    reason: Missing output files: results/Africa/metadata.tsv
+    wildcards: region=Africa
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+
+[Tue Jun 25 13:30:35 2024]
+rule tidy_host_column:
+    input: ../ingest/results/metadata.tsv
+    output: results/Asia/metadata.tsv
+    jobid: 15
+    reason: Missing output files: results/Asia/metadata.tsv
+    wildcards: region=Asia
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+[Tue Jun 25 13:30:36 2024]
+Finished job 15.
+1 of 19 steps (5%) done
+[Tue Jun 25 13:30:36 2024]
+Finished job 6.
+2 of 19 steps (11%) done
+Select jobs to execute...
+
+[Tue Jun 25 13:30:36 2024]
+rule filter:
+    input: ../ingest/results/sequences.fasta, results/Africa/metadata.tsv, defaults/dropped_strains.txt
+    output: results/Africa/filtered.fasta
+    jobid: 5
+    reason: Missing output files: results/Africa/filtered.fasta; Input files updated by another job: results/Africa/metadata.tsv
+    wildcards: region=Africa
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+
+[Tue Jun 25 13:30:36 2024]
+rule filter:
+    input: ../ingest/results/sequences.fasta, results/Asia/metadata.tsv, defaults/dropped_strains.txt
+    output: results/Asia/filtered.fasta
+    jobid: 14
+    reason: Missing output files: results/Asia/filtered.fasta; Input files updated by another job: results/Asia/metadata.tsv
+    wildcards: region=Asia
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+[Tue Jun 25 13:30:39 2024]
+Finished job 5.
+3 of 19 steps (16%) done
+Select jobs to execute...
+
+[Tue Jun 25 13:30:39 2024]
+rule align:
+    input: results/Africa/filtered.fasta, defaults/mers_reference.fasta, defaults/mers_genemap.gff
+    output: results/Africa/aligned.fasta, results/Africa/insertions.tsv
+    jobid: 4
+    reason: Missing output files: results/Africa/aligned.fasta; Input files updated by another job: results/Africa/filtered.fasta
+    wildcards: region=Africa
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+[Tue Jun 25 13:30:39 2024]
+Finished job 14.
+4 of 19 steps (21%) done
+Select jobs to execute...
+
+[Tue Jun 25 13:30:39 2024]
+rule align:
+    input: results/Asia/filtered.fasta, defaults/mers_reference.fasta, defaults/mers_genemap.gff
+    output: results/Asia/aligned.fasta, results/Asia/insertions.tsv
+    jobid: 13
+    reason: Missing output files: results/Asia/aligned.fasta; Input files updated by another job: results/Asia/filtered.fasta
+    wildcards: region=Asia
+    resources: tmpdir=/var/folders/g_/6938g_6s199gxxswt2nf7w500000gn/T
+
+[Tue Jun 25 13:30:39 2024]
+[Tue Jun 25 13:30:39 2024]
+Error in rule align:
+    jobid: 4
+    input: results/Africa/filtered.fasta, defaults/mers_reference.fasta, defaults/mers_genemap.gff
+    output: results/Africa/aligned.fasta, results/Africa/insertions.tsv
+    shell:
+        
+          nextclade run               --input-ref defaults/mers_reference.fasta               --input-annotation defaults/mers_genemap.gff               --output-fasta -               --output-tsv results/Africa/insertions.tsv               results/Africa/filtered.fasta           | seqkit seq -i > results/Africa/aligned.fasta         
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Error in rule align:
+    jobid: 13
+    input: results/Asia/filtered.fasta, defaults/mers_reference.fasta, defaults/mers_genemap.gff
+    output: results/Asia/aligned.fasta, results/Asia/insertions.tsv
+    shell:
+        
+          nextclade run               --input-ref defaults/mers_reference.fasta               --input-annotation defaults/mers_genemap.gff               --output-fasta -               --output-tsv results/Asia/insertions.tsv               results/Asia/filtered.fasta           | seqkit seq -i > results/Asia/aligned.fasta         
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Removing output files of failed job align since they might be corrupted:
+results/Africa/aligned.fasta
+Removing output files of failed job align since they might be corrupted:
+results/Asia/aligned.fasta
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2024-06-25T133034.498219.snakemake.log
