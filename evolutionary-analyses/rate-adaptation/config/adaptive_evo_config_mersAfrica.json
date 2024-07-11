@@ -1,0 +1,18 @@
+{
+    "virus": "mersAfrica",
+    "virus_family": "coronavirus",
+    "subtype": "False",
+    "legible_name": "MERS-CoV (Africa lineage)",
+    "color": "#76C7BE",
+    "alignment_file": "../../nextstrain-build/phylogenetic_only_camels_by_geography/results/Africa/aligned.fasta",
+    "meta_file": "../../nextstrain-build/phylogenetic_only_camels_by_geography/results/Africa/metadata.tsv",
+    "metafile_sep": "\t",
+    "reference_file": "config/mers_reference_for_adaptation.gb",
+    "genes": ["Nsp1","Nsp2","Nsp3", "Nsp4", "Nsp5", "Nsp6", "Nsp7", "Nsp8", "Nsp9", "Nsp10","RdRp","Hel","Exon","NendoU", "2Omethyltransferase","S1","S2","ORF3","ORF4a","ORF4b","ORF5", "E","M","N","ORF8b"],
+    "ha_protein": {"virus_gene": "S"},
+    "receptor_binding": {"virus_gene": "S1"},
+    "membrane_fusion": {"virus_gene": "S2"},
+    "polymerase": {"virus_gene": "RdRp"},
+    "nonantigenic_gene": "S2"
+  
+  }

@@ -1,0 +1,1 @@
+{"virus": "mersAsia", "subtype": null, "gene": "RdRp", "window": 3, "min_seqs": 3, "midfreq_high": 0.9, "midfreq_low": 0.01, "window_midpoint": [2014.5, 2015.5, 2016.5, 2017.5], "adaptive_substitutions": [0.0, 0.0, 0.0, 0.0], "adaptive_substitutions_per_codon": [0.0, 0.0, 0.0, 0.0], "rate_of_adaptation": 0.0}

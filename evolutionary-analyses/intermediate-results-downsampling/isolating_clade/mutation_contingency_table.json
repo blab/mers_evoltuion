@@ -1,0 +1,2380 @@
+{
+  "ExoN": {
+    "R76L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "M153I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S16F": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "V341F": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "K483R": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "R372S": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "V66I": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "D434G": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "T65I": {
+      "camel": 19,
+      "camel_wo": 55
+    },
+    "V317L": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "S16Y": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "V346F": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "Q265R": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "T15I": {
+      "camel": 9,
+      "camel_wo": 65
+    },
+    "A468V": {
+      "camel": 9,
+      "camel_wo": 65
+    },
+    "R139H": {
+      "camel": 31,
+      "camel_wo": 43
+    },
+    "T519N": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "T15N": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "V162A": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "E490D": {
+      "camel": 4,
+      "camel_wo": 70
+    },
+    "P344L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "V263F": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "H188Y": {
+      "camel": 1,
+      "camel_wo": 73
+    }
+  },
+  "N": {
+    "P4S": {
+      "camel": 13,
+      "camel_wo": 61
+    },
+    "K366N": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "P4L": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "D14Y": {
+      "camel": 15,
+      "camel_wo": 59
+    },
+    "G26D": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "G198S": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "K384N": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "T396A": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "N284T": {
+      "camel": 50,
+      "camel_wo": 24
+    },
+    "T288I": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "P59S": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "Q234R": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "S375L": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "D82Y": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "Q394H": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "P7H": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "T19I": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "P4H": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "S186I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "K384M": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "S11F": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "T70I": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "G198X": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "*414X": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "X198S": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "X414*": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "X198C": {
+      "camel": 10,
+      "camel_wo": 64
+    }
+  },
+  "NendoU": {
+    "Y145H": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "K295R": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "T322I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "V37F": {
+      "camel": 19,
+      "camel_wo": 55
+    },
+    "C189F": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "K82N": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "L71F": {
+      "camel": 15,
+      "camel_wo": 59
+    },
+    "K267R": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "N226K": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "V166F": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S215N": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "S270L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "E19D": {
+      "camel": 16,
+      "camel_wo": 58
+    },
+    "V10F": {
+      "camel": 5,
+      "camel_wo": 69
+    },
+    "D297N": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "P318L": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "L248F": {
+      "camel": 4,
+      "camel_wo": 70
+    },
+    "M323I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S164I": {
+      "camel": 1,
+      "camel_wo": 73
+    }
+  },
+  "Nsp2": {
+    "T456I": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "S596F": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "R656K": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "N221S": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "T646I": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "T602N": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "L581M": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "L117X": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "N348D": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "L131F": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "D586R": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "D151E": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "L304I": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "D315E": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "A339V": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "T452I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "V527I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "A430T": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "T432I": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "A168T": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "H61Y": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "T472I": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "T171I": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "D27G": {
+      "camel": 9,
+      "camel_wo": 65
+    },
+    "T449I": {
+      "camel": 15,
+      "camel_wo": 59
+    },
+    "F94L": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "I382T": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "S226F": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "T464I": {
+      "camel": 18,
+      "camel_wo": 56
+    },
+    "R632C": {
+      "camel": 7,
+      "camel_wo": 67
+    },
+    "Y396C": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "V595L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "D114N": {
+      "camel": 4,
+      "camel_wo": 70
+    },
+    "R260T": {
+      "camel": 4,
+      "camel_wo": 70
+    },
+    "V505F": {
+      "camel": 4,
+      "camel_wo": 70
+    },
+    "G413S": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "V499L": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "S575F": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "Y388N": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "T443I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "R488N": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "T590I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "A37V": {
+      "camel": 10,
+      "camel_wo": 64
+    },
+    "K52N": {
+      "camel": 10,
+      "camel_wo": 64
+    },
+    "F475I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "E636K": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "T192N": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "K391R": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "D565Y": {
+      "camel": 1,
+      "camel_wo": 73
+    }
+  },
+  "Nsp3": {
+    "E206G": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "G565C": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "Q762R": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "P1041L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "P1118S": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "I1407V": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "R1314C": {
+      "camel": 23,
+      "camel_wo": 51
+    },
+    "T1573A": {
+      "camel": 23,
+      "camel_wo": 51
+    },
+    "E1111D": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "S1790N": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "C113F": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "E121D": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "V646I": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "S216F": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "A229T": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "T1155N": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "G565D": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "D167Y": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "S731F": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "R862Q": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "R1087G": {
+      "camel": 16,
+      "camel_wo": 58
+    },
+    "G1248C": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S99F": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "A790D": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "R1562H": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "R655I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "A153T": {
+      "camel": 12,
+      "camel_wo": 62
+    },
+    "S287P": {
+      "camel": 12,
+      "camel_wo": 62
+    },
+    "G1295C": {
+      "camel": 12,
+      "camel_wo": 62
+    },
+    "T693I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S955F": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "Q1514H": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "T204I": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "G1011D": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "R1631Q": {
+      "camel": 30,
+      "camel_wo": 44
+    },
+    "S144F": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "E206D": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "S1027F": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "V181A": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "T243I": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "K368R": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "V840M": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "S926T": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "Y1160C": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "S1748N": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "K464N": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "T1234I": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "T1823I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "T928I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "E151D": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "P215L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "P1117L": {
+      "camel": 50,
+      "camel_wo": 24
+    },
+    "A1494V": {
+      "camel": 50,
+      "camel_wo": 24
+    },
+    "R1510C": {
+      "camel": 50,
+      "camel_wo": 24
+    },
+    "R1878K": {
+      "camel": 50,
+      "camel_wo": 24
+    },
+    "T23I": {
+      "camel": 19,
+      "camel_wo": 55
+    },
+    "W1486C": {
+      "camel": 19,
+      "camel_wo": 55
+    },
+    "D1588E": {
+      "camel": 19,
+      "camel_wo": 55
+    },
+    "S1704G": {
+      "camel": 19,
+      "camel_wo": 55
+    },
+    "S996G": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "R1210C": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "L583F": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "T1611I": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "V560I": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "S656A": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "R860C": {
+      "camel": 14,
+      "camel_wo": 60
+    },
+    "W152*": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "R720G": {
+      "camel": 19,
+      "camel_wo": 55
+    },
+    "M723I": {
+      "camel": 9,
+      "camel_wo": 65
+    },
+    "L882F": {
+      "camel": 9,
+      "camel_wo": 65
+    },
+    "T887M": {
+      "camel": 9,
+      "camel_wo": 65
+    },
+    "D1053Y": {
+      "camel": 9,
+      "camel_wo": 65
+    },
+    "I1131V": {
+      "camel": 9,
+      "camel_wo": 65
+    },
+    "A1235V": {
+      "camel": 22,
+      "camel_wo": 52
+    },
+    "A1386T": {
+      "camel": 9,
+      "camel_wo": 65
+    },
+    "A1458T": {
+      "camel": 9,
+      "camel_wo": 65
+    },
+    "E1768D": {
+      "camel": 9,
+      "camel_wo": 65
+    },
+    "L1430F": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S49F": {
+      "camel": 5,
+      "camel_wo": 69
+    },
+    "D623G": {
+      "camel": 5,
+      "camel_wo": 69
+    },
+    "P705S": {
+      "camel": 5,
+      "camel_wo": 69
+    },
+    "T774I": {
+      "camel": 5,
+      "camel_wo": 69
+    },
+    "T34I": {
+      "camel": 31,
+      "camel_wo": 43
+    },
+    "Q425L": {
+      "camel": 31,
+      "camel_wo": 43
+    },
+    "K597T": {
+      "camel": 31,
+      "camel_wo": 43
+    },
+    "V211L": {
+      "camel": 13,
+      "camel_wo": 61
+    },
+    "G914C": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "A1484T": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "I186X": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "A187X": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "K913N": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "F732L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "L36F": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "F1258S": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "P230S": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "V853I": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "E1116D": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "E1366A": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "N606S": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "P77S": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "E170D": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "L1108V": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "R582C": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "T706I": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "V904I": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "S1027P": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "D1046G": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "S1828F": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "S64P": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "K498E": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "E575G": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "D1007N": {
+      "camel": 4,
+      "camel_wo": 70
+    },
+    "M1263I": {
+      "camel": 4,
+      "camel_wo": 70
+    },
+    "V1617A": {
+      "camel": 4,
+      "camel_wo": 70
+    },
+    "V636L": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "D845Y": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "S988L": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "A1150V": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "M1499I": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "N1598H": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "D78H": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "P161S": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "I900T": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S1559L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "T1573I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S1811G": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "F394L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "V265A": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S334A": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "A1400V": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "H1598Y": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "K402R": {
+      "camel": 5,
+      "camel_wo": 69
+    }
+  },
+  "Nsp4": {
+    "M172I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "D112N": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "S129T": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "T244I": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "R166K": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "V85I": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "K416R": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "P159S": {
+      "camel": 51,
+      "camel_wo": 23
+    },
+    "A391T": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "T3I": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "A100V": {
+      "camel": 50,
+      "camel_wo": 24
+    },
+    "G15S": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "T173A": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "A173V": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "T12M": {
+      "camel": 18,
+      "camel_wo": 56
+    },
+    "D423E": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "L401V": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "H177Y": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "V181A": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "D167N": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "A40V": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "E145D": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "G239C": {
+      "camel": 1,
+      "camel_wo": 73
+    }
+  },
+  "Nsp8": {
+    "V142L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "L123M": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "I107V": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "V85I": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "T137N": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "T2I": {
+      "camel": 2,
+      "camel_wo": 72
+    }
+  },
+  "Orf4b": {
+    "V194A": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "R149X": {
+      "camel": 23,
+      "camel_wo": 51
+    },
+    "R206X": {
+      "camel": 23,
+      "camel_wo": 51
+    },
+    "*247X": {
+      "camel": 23,
+      "camel_wo": 51
+    },
+    "X206I": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "X149R": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "X247*": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "X149S": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "W67X": {
+      "camel": 15,
+      "camel_wo": 59
+    },
+    "Y68X": {
+      "camel": 15,
+      "camel_wo": 59
+    },
+    "K83X": {
+      "camel": 15,
+      "camel_wo": 59
+    },
+    "Y85X": {
+      "camel": 15,
+      "camel_wo": 59
+    },
+    "V35F": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "P9L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "L100P": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "Q15X": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "X67W": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "X68Y": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "R19H": {
+      "camel": 12,
+      "camel_wo": 62
+    },
+    "R70L": {
+      "camel": 12,
+      "camel_wo": 62
+    },
+    "P53S": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "V121F": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "P89S": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "T60I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "L125X": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "N65X": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "K23N": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "A21P": {
+      "camel": 19,
+      "camel_wo": 55
+    },
+    "H243Q": {
+      "camel": 19,
+      "camel_wo": 55
+    },
+    "P244L": {
+      "camel": 19,
+      "camel_wo": 55
+    },
+    "G245*": {
+      "camel": 21,
+      "camel_wo": 53
+    },
+    "P21S": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "P161L": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "P209L": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "R122I": {
+      "camel": 12,
+      "camel_wo": 62
+    },
+    "Y208F": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "P152S": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "L41F": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "R196L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "R22T": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "P203A": {
+      "camel": 1,
+      "camel_wo": 73
+    }
+  },
+  "Orf5": {
+    "P15S": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "V16F": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "E24A": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "L54F": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "N120S": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "R63H": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "A5S": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "S28P": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "A19V": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "I29T": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "F31L": {
+      "camel": 5,
+      "camel_wo": 69
+    },
+    "T26I": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "Y91H": {
+      "camel": 19,
+      "camel_wo": 55
+    },
+    "A42S": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "A36T": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "H90Y": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "I147T": {
+      "camel": 4,
+      "camel_wo": 70
+    },
+    "V84L": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "L196F": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "R22C": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S201F": {
+      "camel": 2,
+      "camel_wo": 72
+    }
+  },
+  "Orf8b": {
+    "T17I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "T74I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "*113S": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "G14V": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "P22L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S90N": {
+      "camel": 51,
+      "camel_wo": 23
+    },
+    "L4P": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "P63Q": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "P2Q": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "R16S": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "L70S": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "P5S": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "G11V": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "R7L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S35F": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "V11A": {
+      "camel": 2,
+      "camel_wo": 72
+    }
+  },
+  "S1": {
+    "P4L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "A415S": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "E647K": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "M677T": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "D139Y": {
+      "camel": 58,
+      "camel_wo": 16
+    },
+    "A412T": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "V658L": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "A119S": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "V134A": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "G179D": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "V252F": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "G361V": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "R675Q": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "G60X": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "G135S": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "A70S": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "T405I": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "Y175H": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S371F": {
+      "camel": 51,
+      "camel_wo": 23
+    },
+    "R680Q": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S637T": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "H148Y": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "L476F": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "L569F": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "A578V": {
+      "camel": 50,
+      "camel_wo": 24
+    },
+    "R607P": {
+      "camel": 50,
+      "camel_wo": 24
+    },
+    "T120I": {
+      "camel": 19,
+      "camel_wo": 55
+    },
+    "P496L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "G236S": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "Q17H": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "T373A": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "L431F": {
+      "camel": 10,
+      "camel_wo": 64
+    },
+    "L726F": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "P78L": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "S664F": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "S205T": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "S489L": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "A10V": {
+      "camel": 4,
+      "camel_wo": 70
+    },
+    "S509P": {
+      "camel": 4,
+      "camel_wo": 70
+    },
+    "A415V": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "L476P": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "Q41R": {
+      "camel": 1,
+      "camel_wo": 73
+    }
+  },
+  "S2": {
+    "E5Q": {
+      "camel": 4,
+      "camel_wo": 70
+    },
+    "A135S": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S137I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "A167S": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "C582R": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S105Y": {
+      "camel": 23,
+      "camel_wo": 51
+    },
+    "S104I": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "S500F": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "R133L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "V458L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S407L": {
+      "camel": 12,
+      "camel_wo": 62
+    },
+    "L449F": {
+      "camel": 12,
+      "camel_wo": 62
+    },
+    "L343I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "Q163H": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "E241K": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "A100E": {
+      "camel": 19,
+      "camel_wo": 55
+    },
+    "G551S": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "Q75H": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "N412K": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "T259K": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "R7C": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "P3S": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "V53I": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "D151G": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S127F": {
+      "camel": 4,
+      "camel_wo": 70
+    },
+    "M386I": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "R71L": {
+      "camel": 4,
+      "camel_wo": 70
+    },
+    "T148I": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "Q280H": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "P456S": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S363F": {
+      "camel": 2,
+      "camel_wo": 72
+    }
+  },
+  "Nsp1": {
+    "A61V": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "H159Y": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "G118C": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "D163N": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "V58M": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "T32I": {
+      "camel": 9,
+      "camel_wo": 65
+    },
+    "H79Y": {
+      "camel": 9,
+      "camel_wo": 65
+    },
+    "P131S": {
+      "camel": 9,
+      "camel_wo": 65
+    },
+    "R75L": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "S115I": {
+      "camel": 31,
+      "camel_wo": 43
+    },
+    "L69P": {
+      "camel": 5,
+      "camel_wo": 69
+    },
+    "P100S": {
+      "camel": 5,
+      "camel_wo": 69
+    },
+    "R81G": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "A77V": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "I134N": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "D173G": {
+      "camel": 10,
+      "camel_wo": 64
+    }
+  },
+  "Nsp7": {
+    "P79S": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "T9I": {
+      "camel": 3,
+      "camel_wo": 71
+    }
+  },
+  "Orf3": {
+    "E78D": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "C38F": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "L26F": {
+      "camel": 23,
+      "camel_wo": 51
+    },
+    "S92X": {
+      "camel": 12,
+      "camel_wo": 62
+    },
+    "D97X": {
+      "camel": 12,
+      "camel_wo": 62
+    },
+    "Y100X": {
+      "camel": 12,
+      "camel_wo": 62
+    },
+    "N103X": {
+      "camel": 12,
+      "camel_wo": 62
+    },
+    "*104X": {
+      "camel": 73,
+      "camel_wo": 1
+    },
+    "P86X": {
+      "camel": 31,
+      "camel_wo": 43
+    },
+    "T91K": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "V98F": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "G99D": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "H89X": {
+      "camel": 21,
+      "camel_wo": 53
+    },
+    "X89Y": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "X97D": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "X100Y": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "X103F": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "T82I": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "S67L": {
+      "camel": 50,
+      "camel_wo": 24
+    },
+    "S101X": {
+      "camel": 50,
+      "camel_wo": 24
+    },
+    "T87X": {
+      "camel": 30,
+      "camel_wo": 44
+    },
+    "F96X": {
+      "camel": 19,
+      "camel_wo": 55
+    },
+    "N103D": {
+      "camel": 22,
+      "camel_wo": 52
+    },
+    "G85D": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "X86F": {
+      "camel": 9,
+      "camel_wo": 65
+    },
+    "X87N": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "X87T": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "X101S": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "X101P": {
+      "camel": 31,
+      "camel_wo": 43
+    },
+    "X104*": {
+      "camel": 32,
+      "camel_wo": 42
+    },
+    "G85V": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "T87I": {
+      "camel": 5,
+      "camel_wo": 69
+    },
+    "S79L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "I87T": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "L26I": {
+      "camel": 18,
+      "camel_wo": 56
+    },
+    "L17F": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "A21T": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "V62I": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "S64F": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "P25S": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "V28I": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "G85X": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "X85D": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "V90F": {
+      "camel": 10,
+      "camel_wo": 64
+    },
+    "L9F": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S16A": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S81L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "T20I": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "R77C": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "G69D": {
+      "camel": 5,
+      "camel_wo": 69
+    }
+  },
+  "RdRpb": {
+    "V175L": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "T264I": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "G143D": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "V103F": {
+      "camel": 4,
+      "camel_wo": 70
+    },
+    "F381L": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "M701I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "M189I": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "L354V": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "V794L": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "D86V": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S132I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "D518N": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "A192D": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "T313I": {
+      "camel": 50,
+      "camel_wo": 24
+    },
+    "I555L": {
+      "camel": 50,
+      "camel_wo": 24
+    },
+    "M240I": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "P92L": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "S919G": {
+      "camel": 9,
+      "camel_wo": 65
+    },
+    "T429M": {
+      "camel": 4,
+      "camel_wo": 70
+    },
+    "H891Y": {
+      "camel": 4,
+      "camel_wo": 70
+    },
+    "D55N": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "V237M": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "A369S": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "A627S": {
+      "camel": 1,
+      "camel_wo": 73
+    }
+  },
+  "2Omethyltransferase": {
+    "E144D": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "G222D": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "P258S": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "T91I": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "E102D": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "A10S": {
+      "camel": 5,
+      "camel_wo": 69
+    },
+    "A162S": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "T235I": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "A28V": {
+      "camel": 4,
+      "camel_wo": 70
+    },
+    "R38C": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "H9R": {
+      "camel": 1,
+      "camel_wo": 73
+    }
+  },
+  "M": {
+    "L7F": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "T8I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "V69I": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "I92L": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "I82T": {
+      "camel": 19,
+      "camel_wo": 55
+    },
+    "H147Y": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "T8N": {
+      "camel": 5,
+      "camel_wo": 69
+    },
+    "A14S": {
+      "camel": 5,
+      "camel_wo": 69
+    },
+    "S2F": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "S205N": {
+      "camel": 1,
+      "camel_wo": 73
+    }
+  },
+  "Nsp5": {
+    "M43I": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "N172S": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "H71Y": {
+      "camel": 50,
+      "camel_wo": 24
+    },
+    "Y71H": {
+      "camel": 4,
+      "camel_wo": 70
+    }
+  },
+  "Hel": {
+    "E583D": {
+      "camel": 26,
+      "camel_wo": 48
+    },
+    "L467F": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "M525I": {
+      "camel": 12,
+      "camel_wo": 62
+    },
+    "V57A": {
+      "camel": 50,
+      "camel_wo": 24
+    },
+    "A568T": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "A454V": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "A393V": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "G469C": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "A169V": {
+      "camel": 5,
+      "camel_wo": 69
+    },
+    "G469D": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "G118C": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "F133I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "N423S": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "T593I": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "A454T": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "E261G": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "K596N": {
+      "camel": 1,
+      "camel_wo": 73
+    }
+  },
+  "Orf4a": {
+    "P42S": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "S61F": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "S95L": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "E104*": {
+      "camel": 1,
+      "camel_wo": 73
+    },
+    "S101T": {
+      "camel": 19,
+      "camel_wo": 55
+    },
+    "T101I": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "P34S": {
+      "camel": 11,
+      "camel_wo": 63
+    },
+    "E102D": {
+      "camel": 1,
+      "camel_wo": 73
+    }
+  },
+  "Nsp6": {
+    "L45F": {
+      "camel": 8,
+      "camel_wo": 66
+    },
+    "M122V": {
+      "camel": 4,
+      "camel_wo": 70
+    },
+    "N266D": {
+      "camel": 6,
+      "camel_wo": 68
+    },
+    "L48F": {
+      "camel": 2,
+      "camel_wo": 72
+    },
+    "T52I": {
+      "camel": 5,
+      "camel_wo": 69
+    },
+    "A197V": {
+      "camel": 3,
+      "camel_wo": 71
+    },
+    "L187F": {
+      "camel": 1,
+      "camel_wo": 73
+    }
+  },
+  "E": {
+    "S64L": {
+      "camel": 19,
+      "camel_wo": 55
+    }
+  },
+  "Nsp9": {
+    "G36S": {
+      "camel": 6,
+      "camel_wo": 68
+    }
+  },
+  "Nsp10": {
+    "S9F": {
+      "camel": 18,
+      "camel_wo": 56
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "virus": "mers",
+    "virus_family": "coronavirus",
+    "subtype": "False",
+    "legible_name": "MERS-CoV",
+    "color": "#196468",
+    "alignment_file": "../../nextstrain-build/phylogenetic_subsampling/results/aligned.fasta",
+    "meta_file": "../../nextstrain-build/phylogenetic_subsampling/results/subsampled_metadata.tsv",
+    "metafile_sep": "\t",
+    "reference_file": "../../nextstrain-build/phylogenetic_subsampling/defaults/mers_reference.gb",
+    "genes": ["Nsp1","Nsp2","Nsp3", "Nsp4", "Nsp5", "Nsp6", "Nsp7", "Nsp8", "Nsp9", "Nsp10","RdRp","Hel","Exon","NendoU", "2Omethyltransferase","S1","S2","E","M","N","ORF3","ORF4a","ORF4b","ORF5", "ORF8b"],
+    "ha_protein": {"virus_gene": "S"},
+    "receptor_binding": {"virus_gene": "S1"},
+    "membrane_fusion": {"virus_gene": "S2"},
+    "polymerase": {"virus_gene": "RdRp"},
+    "nonantigenic_gene": "S2"
+  
+  }

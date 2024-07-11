@@ -1,0 +1,43 @@
+{
+    "title": "MERS-CoV Evolution in Camels",
+    "maintainers": [
+      {"name": "Sophie Artz", "url": ""}
+    ],
+    "build_url": "https://github.com/blab/mers-evolution",
+    "colorings": [
+      {
+        "key": "gt",
+        "title": "Genotype",
+        "type": "categorical"
+      },
+      {
+        "key": "region",
+        "title": "Region",
+        "type": "categorical"
+      },
+      {
+        "key": "host",
+        "title": "Host",
+        "type": "categorical"
+      },
+      {
+        "key": "country",
+        "title": "Country",
+        "type": "categorical"
+      }
+    ],
+    "geo_resolutions": [
+      "region",
+      "country"
+    ],
+    "display_defaults": {
+      "map_triplicate": true,
+      "color_by": "host",
+      "tip_label": "host"
+    },
+    "filters": [
+      "host",
+      "region",
+      "country"
+    ]
+  }

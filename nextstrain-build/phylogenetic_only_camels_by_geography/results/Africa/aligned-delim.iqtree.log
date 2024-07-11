@@ -1,0 +1,164 @@
+IQ-TREE multicore version 2.3.4 COVID-edition for MacOS Intel 64-bit built Jun 18 2024
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    MacBook-Pro-5.local (SSE4.2, 8 GB RAM)
+Command: iqtree2 -ntmax 1 -s results/Africa/aligned-delim.fasta -m GTR -ninit 2 -n 2 -me 0.05 -nt AUTO -redo
+Seed:    951450 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Jun 25 13:38:37 2024
+Kernel:  SSE2 - auto-detect threads (8 CPU cores detected)
+
+Reading alignment file results/Africa/aligned-delim.fasta ... Fasta format detected
+Reading fasta file: done in 0.0375199 secs using 94.64% CPU
+Alignment most likely contains DNA/RNA sequences
+Alignment has 74 sequences with 30119 columns, 1030 distinct patterns
+859 parsimony-informative, 352 singleton sites, 28908 constant sites
+          Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000117064 secs using 89.69% CPU
+   1  KU201959   82.25%    passed     13.74%
+   2  KU201953   86.51%    failed      0.61%
+   3  MG923465   84.52%    failed      0.00%
+   4  MG923466    0.24%    passed     95.82%
+   5  KJ477102    0.70%    passed     94.89%
+   6  KJ477103    0.06%    passed     92.16%
+   7  KU740200    0.57%    passed     94.08%
+   8  MG923468    0.10%    passed     98.28%
+   9  MG923469    2.32%    passed     91.18%
+  10  MG923467    0.14%    passed     97.29%
+  11  MG923472    1.47%    passed     96.93%
+  12  MG923470    2.31%    passed     95.80%
+  13  MG923471    1.32%    passed     97.06%
+  14  MG923473    2.49%    passed     96.93%
+  15  MG923475    2.18%    passed     92.42%
+  16  MG923474    2.21%    passed     94.38%
+  17  MG923476    2.21%    passed     92.60%
+  18  MH734115    0.29%    passed     97.18%
+  19  MH734114    0.29%    passed     97.18%
+  20  MG923477    2.20%    passed     92.72%
+  21  MG923479    2.21%    passed     94.15%
+  22  MG923481    2.18%    passed     94.79%
+  23  MG923478    2.18%    passed     95.28%
+  24  MK967708    0.05%    passed     91.55%
+  25  MG923480    2.18%    passed     94.57%
+  26  MK357908    1.07%    passed     94.97%
+  27  MK564474    0.12%    passed     98.81%
+  28  MK357909    1.07%    passed     94.73%
+  29  MK564475    0.12%    passed     99.13%
+  30  MZ268404    0.09%    passed     97.34%
+  31  MZ268405    0.05%    passed     98.73%
+  32  OK094449    0.05%    passed     98.92%
+  33  OK094448    0.04%    passed     99.01%
+  34  OP654178    0.03%    passed     90.99%
+  35  OP712623    0.07%    passed     90.79%
+  36  OK094450    0.05%    passed     98.96%
+  37  OK094452    0.05%    passed     98.91%
+  38  OP654179    0.03%    passed     91.54%
+  39  OK094453    0.06%    passed     98.89%
+  40  OP866274    0.22%    passed     97.54%
+  41  OP712624    0.04%    passed     93.70%
+  42  OP866276    0.24%    passed     96.60%
+  43  OP712625    0.05%    passed     94.17%
+  44  OP866275    0.24%    passed     96.95%
+  45  OP866278    0.11%    passed     97.28%
+  46  OP866279    0.18%    passed     99.28%
+  47  OP866277    0.09%    passed     97.39%
+  48  OP866281    0.18%    passed     99.30%
+  49  OP866280    0.25%    passed     98.92%
+  50  OP866285    0.22%    passed     99.50%
+  51  OP866282    0.30%    passed     98.11%
+  52  OP866284    0.16%    passed     98.27%
+  53  OP866287    0.14%    passed     98.03%
+  54  OP866286    0.41%    passed     98.95%
+  55  OP866288    0.28%    passed     96.53%
+  56  OP866283    0.35%    passed     98.50%
+  57  OP866293    0.42%    passed     99.15%
+  58  OP866294    0.32%    passed     99.03%
+  59  OP866290    0.27%    passed     99.55%
+  60  OP866292    0.41%    passed     99.05%
+  61  OP906306    0.17%    passed     90.83%
+  62  OP866291    0.41%    passed     99.24%
+  63  OR742167   29.49%    failed      0.82%
+  64  OR742168   29.49%    failed      0.82%
+  65  OR742174   29.49%    failed      0.62%
+  66  OR742170   29.49%    failed      0.72%
+  67  OR742171   29.49%    failed      0.72%
+  68  OR742169   29.49%    failed      0.78%
+  69  OR742172   29.49%    failed      0.72%
+  70  OR742173   29.49%    failed      0.85%
+  71  OR742175   29.49%    failed      0.65%
+  72  PP504664    6.73%    passed     60.71%
+  73  PP504665    6.66%    passed     58.81%
+  74  OP866289    0.33%    passed     98.90%
+WARNING: 3 sequences contain more than 50% gaps/ambiguity
+****  TOTAL       7.71%  11 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: MH734114 is identical to MH734115 but kept for subsequent analysis
+NOTE: OR742168 is identical to OR742167 but kept for subsequent analysis
+NOTE: OR742171 is identical to OR742170 but kept for subsequent analysis
+NOTE: 1 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: OR742172 (identical to OR742170) is ignored but added at the end
+Alignment was printed to results/Africa/aligned-delim.fasta.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to results/Africa/aligned-delim.fasta.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.005 seconds
+
+NOTE: 2 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 1 CPU cores
+Increase to 10 rounds for branch lengths
+31 trees examined
+Threads: 1 / Time: 1.032 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -92466
+BEST NUMBER OF THREADS: 1
+
+Estimate model parameters (epsilon = 0.500)
+1. Initial log-likelihood: -53389.726
+2. Current log-likelihood: -52607.675
+3. Current log-likelihood: -52606.798
+Optimal log-likelihood: -52606.551
+Rate parameters:  A-C: 0.49929  A-G: 1.47116  A-T: 0.19881  C-G: 0.22535  C-T: 4.81239  G-T: 1.00000
+Base frequencies:  A: 0.262  C: 0.201  G: 0.210  T: 0.327
+Parameters optimization took 3 rounds (0.158 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.0138099 secs using 94.82% CPU
+Computing ML distances took 0.014135 sec (of wall-clock time) 0.013298 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000148058 secs using 172.2% CPU
+Computing RapidNJ tree took 0.000488 sec (of wall-clock time) 0.000856 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -52786.313
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -52604.696
+Finish initializing candidate tree set (4)
+Current best tree score: -52604.696 / CPU time: 0.147
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:1s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -52604.696
+Optimal log-likelihood: -52604.696
+Rate parameters:  A-C: 0.49925  A-G: 1.47103  A-T: 0.19884  C-G: 0.22537  C-T: 4.81267  G-T: 1.00000
+Base frequencies:  A: 0.262  C: 0.201  G: 0.210  T: 0.327
+Parameters optimization took 1 rounds (0.019 sec)
+BEST SCORE FOUND : -52604.696
+Total tree length: 0.047
+
+Total number of iterations: 2
+CPU time used for tree search: 0.265 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.147 sec (0h:0m:0s)
+Total CPU time used: 1.572 sec (0h:0m:1s)
+Total wall-clock time used: 1.429 sec (0h:0m:1s)
+
+Analysis results written to: 
+  IQ-TREE report:                results/Africa/aligned-delim.fasta.iqtree
+  Maximum-likelihood tree:       results/Africa/aligned-delim.fasta.treefile
+  Likelihood distances:          results/Africa/aligned-delim.fasta.mldist
+  Screen log file:               results/Africa/aligned-delim.fasta.log
+
+Date and Time: Tue Jun 25 13:38:39 2024
