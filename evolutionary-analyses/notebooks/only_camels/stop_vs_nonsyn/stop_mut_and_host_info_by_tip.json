@@ -1,0 +1,2955 @@
+{
+  "KJ477102": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2013.6677696491379,
+    "muts_on_path": {}
+  },
+  "OP712624": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2016.6844262295083,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X"
+      ]
+    }
+  },
+  "OP712625": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2016.6844262295083,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X"
+      ]
+    }
+  },
+  "KJ477103": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2013.9986301369863,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X"
+      ]
+    }
+  },
+  "OP906306": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2013.9986301369863,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X"
+      ]
+    }
+  },
+  "MK967708": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2018.0013698630137,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X"
+      ],
+      "Nsp2": [
+        "L117X"
+      ],
+      "S1": [
+        "G60X"
+      ]
+    }
+  },
+  "OP654178": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2015.0150684931507,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X"
+      ]
+    }
+  },
+  "OP654179": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2015.0013698630137,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X"
+      ]
+    }
+  },
+  "OP712623": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2015.0150684931507,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X"
+      ]
+    }
+  },
+  "MG923469": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2015.168493150685,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X",
+        "W67X",
+        "Y68X",
+        "K83X",
+        "Y85X"
+      ]
+    }
+  },
+  "MG923471": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2015.2095890410958,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X",
+        "W67X",
+        "Y68X",
+        "K83X",
+        "Y85X",
+        "Q15X"
+      ]
+    }
+  },
+  "MG923470": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2015.1465753424657,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X",
+        "W67X",
+        "Y68X",
+        "K83X",
+        "Y85X",
+        "Q15X"
+      ]
+    }
+  },
+  "MG923473": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2015.204109589041,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X",
+        "W67X",
+        "Y68X",
+        "K83X",
+        "Y85X"
+      ],
+      "Orf3": [
+        "S92X",
+        "D97X",
+        "Y100X",
+        "N103X",
+        "*104X",
+        "P86X"
+      ]
+    }
+  },
+  "KU201959": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2015.0342465753424,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X",
+        "W67X",
+        "Y68X",
+        "K83X",
+        "Y85X"
+      ],
+      "Orf3": [
+        "S92X",
+        "D97X",
+        "Y100X",
+        "N103X",
+        "*104X",
+        "H89X"
+      ]
+    }
+  },
+  "KU201953": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2015.0342465753424,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X",
+        "W67X",
+        "Y68X",
+        "K83X",
+        "Y85X"
+      ],
+      "Orf3": [
+        "S92X",
+        "D97X",
+        "Y100X",
+        "N103X",
+        "*104X",
+        "H89X"
+      ]
+    }
+  },
+  "MG923472": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2015.0342465753424,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X",
+        "W67X",
+        "Y68X",
+        "K83X",
+        "Y85X"
+      ],
+      "Orf3": [
+        "S92X",
+        "D97X",
+        "Y100X",
+        "N103X",
+        "*104X",
+        "H89X"
+      ]
+    }
+  },
+  "MG923479": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2016.0969945355191,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X",
+        "W67X",
+        "Y68X",
+        "K83X",
+        "Y85X"
+      ],
+      "Orf3": [
+        "S92X",
+        "D97X",
+        "Y100X",
+        "N103X",
+        "*104X",
+        "H89X"
+      ]
+    }
+  },
+  "MG923478": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2016.0915300546449,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X",
+        "W67X",
+        "Y68X",
+        "K83X",
+        "Y85X"
+      ],
+      "Orf3": [
+        "S92X",
+        "D97X",
+        "Y100X",
+        "N103X",
+        "*104X",
+        "H89X"
+      ]
+    }
+  },
+  "MG923480": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2016.1024590163934,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X",
+        "W67X",
+        "Y68X",
+        "K83X",
+        "Y85X"
+      ],
+      "Orf3": [
+        "S92X",
+        "D97X",
+        "Y100X",
+        "N103X",
+        "*104X",
+        "H89X"
+      ]
+    }
+  },
+  "MG923477": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2016.129781420765,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X",
+        "W67X",
+        "Y68X",
+        "K83X",
+        "Y85X",
+        "L125X"
+      ],
+      "Orf3": [
+        "S92X",
+        "D97X",
+        "Y100X",
+        "N103X",
+        "*104X",
+        "H89X"
+      ]
+    }
+  },
+  "MG923474": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2016.0642076502731,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X",
+        "W67X",
+        "Y68X",
+        "K83X",
+        "Y85X",
+        "N65X"
+      ],
+      "Orf3": [
+        "S92X",
+        "D97X",
+        "Y100X",
+        "N103X",
+        "*104X",
+        "H89X"
+      ]
+    }
+  },
+  "MG923481": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2016.127049180328,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X",
+        "W67X",
+        "Y68X",
+        "K83X",
+        "Y85X"
+      ],
+      "Orf3": [
+        "S92X",
+        "D97X",
+        "Y100X",
+        "N103X",
+        "*104X",
+        "H89X"
+      ]
+    }
+  },
+  "MG923475": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2016.0915300546449,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X",
+        "W67X",
+        "Y68X",
+        "K83X",
+        "Y85X"
+      ],
+      "Orf3": [
+        "S92X",
+        "D97X",
+        "Y100X",
+        "N103X",
+        "*104X",
+        "H89X"
+      ]
+    }
+  },
+  "MG923476": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2016.1243169398906,
+    "muts_on_path": {
+      "Orf4b": [
+        "R206X",
+        "*247X",
+        "W67X",
+        "Y68X",
+        "K83X",
+        "Y85X"
+      ],
+      "Orf3": [
+        "S92X",
+        "D97X",
+        "Y100X",
+        "N103X",
+        "*104X",
+        "H89X"
+      ]
+    }
+  },
+  "MK564474": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2017.645205479452,
+    "muts_on_path": {
+      "Orf3": [
+        "F96X",
+        "*104X",
+        "S101X"
+      ]
+    }
+  },
+  "MK564475": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2017.645205479452,
+    "muts_on_path": {
+      "Orf3": [
+        "F96X",
+        "*104X",
+        "S101X"
+      ]
+    }
+  },
+  "OP866291": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2019.886301369863,
+    "muts_on_path": {
+      "Orf3": [
+        "F96X",
+        "*104X",
+        "S101X"
+      ]
+    }
+  },
+  "OP866292": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2019.8890410958904,
+    "muts_on_path": {
+      "Orf3": [
+        "F96X",
+        "*104X",
+        "S101X"
+      ]
+    }
+  },
+  "OP866290": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2019.8835616438357,
+    "muts_on_path": {
+      "Orf3": [
+        "F96X",
+        "*104X",
+        "S101X"
+      ]
+    }
+  },
+  "OP866294": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2019.8945205479451,
+    "muts_on_path": {
+      "Orf3": [
+        "F96X",
+        "*104X",
+        "S101X"
+      ]
+    }
+  },
+  "OP866293": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2019.8917808219178,
+    "muts_on_path": {
+      "Orf3": [
+        "F96X",
+        "*104X",
+        "S101X"
+      ]
+    }
+  },
+  "OP866289": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2019.8835616438357,
+    "muts_on_path": {
+      "Orf3": [
+        "F96X",
+        "*104X",
+        "S101X"
+      ]
+    }
+  },
+  "OP866285": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2019.727397260274,
+    "muts_on_path": {
+      "Orf3": [
+        "F96X",
+        "*104X"
+      ]
+    }
+  },
+  "OP866286": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2019.727397260274,
+    "muts_on_path": {
+      "Orf3": [
+        "F96X",
+        "*104X"
+      ]
+    }
+  },
+  "OR742173": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2022.7575342465752,
+    "muts_on_path": {
+      "Orf3": [
+        "F96X",
+        "*104X"
+      ]
+    }
+  },
+  "OR742169": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2022.7082191780821,
+    "muts_on_path": {
+      "Orf3": [
+        "F96X",
+        "*104X"
+      ]
+    }
+  },
+  "OR742168": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2022.7219178082191,
+    "muts_on_path": {
+      "Orf3": [
+        "F96X",
+        "*104X"
+      ]
+    }
+  },
+  "OR742167": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2022.7054794520548,
+    "muts_on_path": {
+      "Orf3": [
+        "F96X",
+        "*104X"
+      ]
+    }
+  },
+  "OR742174": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2023.0643835616438,
+    "muts_on_path": {
+      "Orf3": [
+        "F96X",
+        "*104X"
+      ]
+    }
+  },
+  "OR742175": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2023.0917808219178,
+    "muts_on_path": {
+      "Orf3": [
+        "F96X",
+        "*104X"
+      ]
+    }
+  },
+  "OR742171": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2022.7547945205479,
+    "muts_on_path": {
+      "Orf3": [
+        "F96X",
+        "*104X"
+      ]
+    }
+  },
+  "OR742172": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2022.7630136986302,
+    "muts_on_path": {
+      "Orf3": [
+        "F96X",
+        "*104X"
+      ]
+    }
+  },
+  "OR742170": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2022.7657534246575,
+    "muts_on_path": {
+      "Orf3": [
+        "F96X",
+        "*104X"
+      ]
+    }
+  },
+  "MG923465": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "KU740200": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2014.9602739726026,
+    "muts_on_path": {}
+  },
+  "MG923467": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2017.2013698630137,
+    "muts_on_path": {
+      "Nsp3": [
+        "I186X",
+        "A187X"
+      ]
+    }
+  },
+  "MG923468": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2017.2013698630137,
+    "muts_on_path": {
+      "Nsp3": [
+        "I186X",
+        "A187X"
+      ]
+    }
+  },
+  "MG923466": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2017.2013698630137,
+    "muts_on_path": {}
+  },
+  "OP866274": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2017.031506849315,
+    "muts_on_path": {}
+  },
+  "OP866275": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2017.0479452054794,
+    "muts_on_path": {}
+  },
+  "OP866277": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2017.9328767123288,
+    "muts_on_path": {}
+  },
+  "OP866278": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2017.9328767123288,
+    "muts_on_path": {}
+  },
+  "OP866276": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2017.9328767123288,
+    "muts_on_path": {}
+  },
+  "OP866279": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2017.9876712328767,
+    "muts_on_path": {}
+  },
+  "OP866280": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2017.9876712328767,
+    "muts_on_path": {}
+  },
+  "OP866281": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2017.9876712328767,
+    "muts_on_path": {}
+  },
+  "OP866282": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2017.7767123287672,
+    "muts_on_path": {}
+  },
+  "OP866283": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2017.7712328767122,
+    "muts_on_path": {}
+  },
+  "OP866284": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2017.7767123287672,
+    "muts_on_path": {}
+  },
+  "MH734114": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2018.195890410959,
+    "muts_on_path": {}
+  },
+  "MH734115": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2018.195890410959,
+    "muts_on_path": {}
+  },
+  "MK357909": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2017.3027397260273,
+    "muts_on_path": {}
+  },
+  "MK357908": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2017.3027397260273,
+    "muts_on_path": {}
+  },
+  "PP504665": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2014.1575342465753,
+    "muts_on_path": {
+      "Orf3": [
+        "T87X",
+        "*104X"
+      ]
+    }
+  },
+  "MZ268405": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2020.214480874317,
+    "muts_on_path": {
+      "Orf3": [
+        "T87X",
+        "*104X",
+        "D85X",
+        "H89X"
+      ]
+    }
+  },
+  "PP504664": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2023.0424657534247,
+    "muts_on_path": {
+      "Orf3": [
+        "T87X",
+        "*104X",
+        "D85X",
+        "H89X"
+      ]
+    }
+  },
+  "OP866287": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2019.8260273972603,
+    "muts_on_path": {
+      "Orf3": [
+        "T87X",
+        "*104X",
+        "D85X",
+        "H89X"
+      ]
+    }
+  },
+  "MZ268404": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2019.8972602739725,
+    "muts_on_path": {
+      "Orf3": [
+        "T87X",
+        "*104X",
+        "D85X",
+        "H89X"
+      ]
+    }
+  },
+  "OP866288": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2019.8972602739725,
+    "muts_on_path": {
+      "Orf3": [
+        "T87X",
+        "*104X",
+        "D85X",
+        "H89X"
+      ]
+    }
+  },
+  "OK094450": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2019.327397260274,
+    "muts_on_path": {
+      "Orf3": [
+        "T87X",
+        "*104X",
+        "D85X",
+        "H89X"
+      ]
+    }
+  },
+  "OK094453": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2019.327397260274,
+    "muts_on_path": {
+      "Orf3": [
+        "T87X",
+        "*104X",
+        "D85X",
+        "H89X"
+      ]
+    }
+  },
+  "OK094449": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2019.327397260274,
+    "muts_on_path": {
+      "Orf3": [
+        "T87X",
+        "*104X",
+        "D85X",
+        "H89X"
+      ]
+    }
+  },
+  "OK094448": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2019.327397260274,
+    "muts_on_path": {
+      "Orf3": [
+        "T87X",
+        "*104X",
+        "D85X",
+        "H89X"
+      ]
+    }
+  },
+  "OK094452": {
+    "region": "Africa",
+    "host": "Camel",
+    "date": 2019.327397260274,
+    "muts_on_path": {
+      "Orf3": [
+        "T87X",
+        "*104X",
+        "D85X",
+        "H89X"
+      ]
+    }
+  },
+  "KX108943": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.3082191780823,
+    "muts_on_path": {}
+  },
+  "KJ713299": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2013.845647671528,
+    "muts_on_path": {}
+  },
+  "KJ650297": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2013.9136986301369,
+    "muts_on_path": {}
+  },
+  "KJ650296": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2013.995890410959,
+    "muts_on_path": {}
+  },
+  "KJ650295": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2013.995890410959,
+    "muts_on_path": {}
+  },
+  "KP719930": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.4150684931508,
+    "muts_on_path": {}
+  },
+  "KP719929": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.4150684931508,
+    "muts_on_path": {}
+  },
+  "KX108937": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.4178082191781,
+    "muts_on_path": {}
+  },
+  "KP719927": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.4945205479453,
+    "muts_on_path": {}
+  },
+  "KP719928": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.4200046088204,
+    "muts_on_path": {}
+  },
+  "KY581698": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.4150684931508,
+    "muts_on_path": {}
+  },
+  "KY581695": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.4150684931508,
+    "muts_on_path": {}
+  },
+  "KY581699": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.4150684931508,
+    "muts_on_path": {}
+  },
+  "KU242424": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.1712328767123,
+    "muts_on_path": {}
+  },
+  "KU242423": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.1931506849314,
+    "muts_on_path": {}
+  },
+  "KP719932": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.4945205479453,
+    "muts_on_path": {}
+  },
+  "KP719931": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.4198009219201,
+    "muts_on_path": {}
+  },
+  "KP719933": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.1885158200737,
+    "muts_on_path": {}
+  },
+  "KX108942": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1246575342466,
+    "muts_on_path": {}
+  },
+  "KX108940": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1164383561643,
+    "muts_on_path": {}
+  },
+  "KX108939": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.0808219178082,
+    "muts_on_path": {}
+  },
+  "KX108938": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9493150684932,
+    "muts_on_path": {}
+  },
+  "KX108941": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1219178082192,
+    "muts_on_path": {
+      "Orf5": [
+        "L7X",
+        "F8X",
+        "*225X"
+      ]
+    }
+  },
+  "MF598619": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "KY581696": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.1931506849314,
+    "muts_on_path": {}
+  },
+  "KY673149": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.0013698630137,
+    "muts_on_path": {}
+  },
+  "KY581697": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.1328767123289,
+    "muts_on_path": {}
+  },
+  "KY581700": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.1328767123289,
+    "muts_on_path": {}
+  },
+  "MF598637": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598647": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598681": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598667": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598672": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598635": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598639": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598636": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1762554119764,
+    "muts_on_path": {}
+  },
+  "MF598663": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598621": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598644": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598648": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.192721461478,
+    "muts_on_path": {}
+  },
+  "MF598669": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "KF917527": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2013.8534246575343,
+    "muts_on_path": {}
+  },
+  "KP405225": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2013.988674078879,
+    "muts_on_path": {}
+  },
+  "KT368824": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.34470178999,
+    "muts_on_path": {}
+  },
+  "KJ713297": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2013.9136986301369,
+    "muts_on_path": {}
+  },
+  "KJ713298": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2013.9136986301369,
+    "muts_on_path": {}
+  },
+  "KJ650098": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.127397260274,
+    "muts_on_path": {}
+  },
+  "MH259486": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.535616438356,
+    "muts_on_path": {}
+  },
+  "KT877350": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.7465753424658,
+    "muts_on_path": {}
+  },
+  "KT877351": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.7465753424658,
+    "muts_on_path": {}
+  },
+  "KJ713296": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2013.9136986301369,
+    "muts_on_path": {}
+  },
+  "KP966104": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.3301369838123,
+    "muts_on_path": {}
+  },
+  "KJ713295": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2013.9136986301369,
+    "muts_on_path": {}
+  },
+  "KX108944": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.3602739726027,
+    "muts_on_path": {}
+  },
+  "KT368875": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "KT368831": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9986301369863,
+    "muts_on_path": {}
+  },
+  "KT368829": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9188217998149,
+    "muts_on_path": {}
+  },
+  "KT368830": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9188217998149,
+    "muts_on_path": {}
+  },
+  "KT368832": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9188217998149,
+    "muts_on_path": {}
+  },
+  "MH259485": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.535616438356,
+    "muts_on_path": {}
+  },
+  "KY706245": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9109589041095,
+    "muts_on_path": {}
+  },
+  "KY706246": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9109589041095,
+    "muts_on_path": {}
+  },
+  "KY706247": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9109589041095,
+    "muts_on_path": {}
+  },
+  "MF598665": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598624": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598675": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598674": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "KP405226": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2013.8342465728533,
+    "muts_on_path": {}
+  },
+  "KT368887": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2479452054795,
+    "muts_on_path": {}
+  },
+  "KT368825": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.5794520547945,
+    "muts_on_path": {}
+  },
+  "KP405227": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2013.98867407639,
+    "muts_on_path": {}
+  },
+  "MK910259": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.0860655737704,
+    "muts_on_path": {}
+  },
+  "KT368855": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.7465753424658,
+    "muts_on_path": {}
+  },
+  "KT368853": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.7465753424658,
+    "muts_on_path": {}
+  },
+  "KT368854": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.6671232876713,
+    "muts_on_path": {}
+  },
+  "KT368851": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.816640282109,
+    "muts_on_path": {}
+  },
+  "KT368849": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.7516985121435,
+    "muts_on_path": {}
+  },
+  "KT368850": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.7516985121435,
+    "muts_on_path": {}
+  },
+  "KT368852": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.805970820764,
+    "muts_on_path": {}
+  },
+  "KT368890": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "KT368866": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1503179202257,
+    "muts_on_path": {}
+  },
+  "KT368867": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1503179202257,
+    "muts_on_path": {}
+  },
+  "KT368857": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.7465753424658,
+    "muts_on_path": {}
+  },
+  "KT368827": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.7442445390006,
+    "muts_on_path": {}
+  },
+  "KT368856": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.7442445390006,
+    "muts_on_path": {}
+  },
+  "KT368845": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9986301369863,
+    "muts_on_path": {}
+  },
+  "KT368844": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9986301369863,
+    "muts_on_path": {}
+  },
+  "KT368828": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9190282996074,
+    "muts_on_path": {}
+  },
+  "KT368843": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9190282996074,
+    "muts_on_path": {}
+  },
+  "MF598654": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598658": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598638": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598679": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598687": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598651": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598696": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598678": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598650": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598629": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598689": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598649": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598656": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598640": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1832475697624,
+    "muts_on_path": {}
+  },
+  "MF679174": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.327397260274,
+    "muts_on_path": {}
+  },
+  "MF598653": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598700": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2479452054795,
+    "muts_on_path": {}
+  },
+  "MF598609": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598712": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.327397260274,
+    "muts_on_path": {}
+  },
+  "MF598683": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2174940715804,
+    "muts_on_path": {}
+  },
+  "MF598702": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2884621906608,
+    "muts_on_path": {}
+  },
+  "MF598707": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.3110444111126,
+    "muts_on_path": {}
+  },
+  "MF598708": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.3110444111126,
+    "muts_on_path": {}
+  },
+  "MF598630": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598614": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598711": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.327397260274,
+    "muts_on_path": {}
+  },
+  "MF598671": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598634": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "KT751244": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9211189290213,
+    "muts_on_path": {}
+  },
+  "MF598673": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598716": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.327397260274,
+    "muts_on_path": {}
+  },
+  "MF598623": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF679173": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.327397260274,
+    "muts_on_path": {}
+  },
+  "MF598659": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598709": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.327397260274,
+    "muts_on_path": {}
+  },
+  "MF598714": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.327397260274,
+    "muts_on_path": {}
+  },
+  "MF598690": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598655": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1701640295812,
+    "muts_on_path": {}
+  },
+  "MF598605": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1701640295812,
+    "muts_on_path": {}
+  },
+  "MF598715": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2479452054795,
+    "muts_on_path": {}
+  },
+  "MF598722": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.327397260274,
+    "muts_on_path": {}
+  },
+  "MF598721": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.3011459410661,
+    "muts_on_path": {}
+  },
+  "MF598720": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2479452054795,
+    "muts_on_path": {}
+  },
+  "MF598719": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2479452054795,
+    "muts_on_path": {}
+  },
+  "MF598717": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2479452054795,
+    "muts_on_path": {}
+  },
+  "MF598599": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598699": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.327397260274,
+    "muts_on_path": {}
+  },
+  "MF598598": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1654319859529,
+    "muts_on_path": {}
+  },
+  "MF598626": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598600": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598610": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598596": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1850143633433,
+    "muts_on_path": {}
+  },
+  "MF598601": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1850143633433,
+    "muts_on_path": {}
+  },
+  "MF598705": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.327397260274,
+    "muts_on_path": {}
+  },
+  "MF598710": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.318602591012,
+    "muts_on_path": {}
+  },
+  "MF598718": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.327397260274,
+    "muts_on_path": {}
+  },
+  "MF598704": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2479452054795,
+    "muts_on_path": {}
+  },
+  "MF598706": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2479452054795,
+    "muts_on_path": {}
+  },
+  "MF598713": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2479452054795,
+    "muts_on_path": {}
+  },
+  "MF598703": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2479452054795,
+    "muts_on_path": {}
+  },
+  "MF598642": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.190410958904,
+    "muts_on_path": {}
+  },
+  "MF598695": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598698": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598697": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1844646914838,
+    "muts_on_path": {}
+  },
+  "MF679172": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1844646914838,
+    "muts_on_path": {}
+  },
+  "MF598676": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598670": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598652": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.185229997255,
+    "muts_on_path": {}
+  },
+  "MF598677": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598641": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF679171": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598645": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598597": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598682": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2327735141491,
+    "muts_on_path": {}
+  },
+  "KT275307": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.3520547945207,
+    "muts_on_path": {}
+  },
+  "KT275308": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.3520547945207,
+    "muts_on_path": {}
+  },
+  "KT275306": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.3520547945207,
+    "muts_on_path": {}
+  },
+  "MF598632": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598643": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598615": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598686": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598694": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598611": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598631": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598666": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2195860206043,
+    "muts_on_path": {}
+  },
+  "MF598613": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598607": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598602": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598628": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598627": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598625": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598622": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598660": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598701": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.327397260274,
+    "muts_on_path": {}
+  },
+  "MF598595": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598603": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598594": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598608": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598664": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "KT368878": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MW545528": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.890956658846,
+    "muts_on_path": {}
+  },
+  "KX108946": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.376712328767,
+    "muts_on_path": {}
+  },
+  "MW545527": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.9986301369863,
+    "muts_on_path": {}
+  },
+  "MF598618": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598604": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598680": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598657": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598646": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598684": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1701640295812,
+    "muts_on_path": {}
+  },
+  "MF598685": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1701640295812,
+    "muts_on_path": {}
+  },
+  "MF598688": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "KX108945": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.4068493150685,
+    "muts_on_path": {}
+  },
+  "MF598612": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MF598691": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598693": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598661": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1848628676187,
+    "muts_on_path": {}
+  },
+  "MF598692": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1848628676187,
+    "muts_on_path": {}
+  },
+  "MF598633": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1859529160565,
+    "muts_on_path": {}
+  },
+  "MF598662": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1859529160565,
+    "muts_on_path": {}
+  },
+  "KT368868": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1828008226385,
+    "muts_on_path": {}
+  },
+  "KT368876": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.227366677191,
+    "muts_on_path": {}
+  },
+  "KT368877": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.227366677191,
+    "muts_on_path": {}
+  },
+  "KT368871": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "MW086527": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.3750280672502,
+    "muts_on_path": {}
+  },
+  "MW086537": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.3725154229312,
+    "muts_on_path": {}
+  },
+  "MW086540": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.4139344262296,
+    "muts_on_path": {}
+  },
+  "MW086539": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.4139344262296,
+    "muts_on_path": {}
+  },
+  "MW086534": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.4139344262296,
+    "muts_on_path": {}
+  },
+  "MW086535": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.4139344262296,
+    "muts_on_path": {}
+  },
+  "MW086538": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.4139344262296,
+    "muts_on_path": {}
+  },
+  "MW086530": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.4139344262296,
+    "muts_on_path": {}
+  },
+  "MW086528": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.368425851524,
+    "muts_on_path": {}
+  },
+  "MW086529": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.368425851524,
+    "muts_on_path": {}
+  },
+  "MW086536": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.3437532634894,
+    "muts_on_path": {}
+  },
+  "MW086531": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.3462450376232,
+    "muts_on_path": {}
+  },
+  "MW086532": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.3462450376232,
+    "muts_on_path": {}
+  },
+  "MW086533": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.3462450376232,
+    "muts_on_path": {}
+  },
+  "KT368870": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "KT368826": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.5794520547945,
+    "muts_on_path": {}
+  },
+  "KT368834": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9923587727994,
+    "muts_on_path": {}
+  },
+  "KT368833": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9188217998149,
+    "muts_on_path": {}
+  },
+  "KT368889": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "KT368874": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "KT368872": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "KT368873": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.16301369863,
+    "muts_on_path": {}
+  },
+  "KT368886": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2479452054795,
+    "muts_on_path": {}
+  },
+  "KT368885": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2479452054795,
+    "muts_on_path": {}
+  },
+  "KT368884": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2479452054795,
+    "muts_on_path": {}
+  },
+  "KT368880": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.297007844269,
+    "muts_on_path": {}
+  },
+  "KT368881": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.297007844269,
+    "muts_on_path": {}
+  },
+  "MN403101": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2019.16301369863,
+    "muts_on_path": {}
+  },
+  "KT368883": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2479452054795,
+    "muts_on_path": {}
+  },
+  "KT368882": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2479452054795,
+    "muts_on_path": {}
+  },
+  "KT368847": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.8808731812064,
+    "muts_on_path": {}
+  },
+  "KT368848": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.8342465753424,
+    "muts_on_path": {}
+  },
+  "KT368846": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.8342465753424,
+    "muts_on_path": {}
+  },
+  "KT368836": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9447843670707,
+    "muts_on_path": {}
+  },
+  "KT368838": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9447843670707,
+    "muts_on_path": {}
+  },
+  "KT368835": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9209572989123,
+    "muts_on_path": {}
+  },
+  "KT368842": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9209572989123,
+    "muts_on_path": {}
+  },
+  "KT368839": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9209572989123,
+    "muts_on_path": {}
+  },
+  "KT368837": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9209572989123,
+    "muts_on_path": {}
+  },
+  "KT368840": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9209572989123,
+    "muts_on_path": {}
+  },
+  "KT368841": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.9209572989123,
+    "muts_on_path": {}
+  },
+  "KT368861": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.0835616438355,
+    "muts_on_path": {}
+  },
+  "KT368860": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.0490496351847,
+    "muts_on_path": {}
+  },
+  "KT368858": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.0490496351847,
+    "muts_on_path": {}
+  },
+  "KT368859": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.0490496351847,
+    "muts_on_path": {}
+  },
+  "KT368865": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.0657228415746,
+    "muts_on_path": {}
+  },
+  "KT368863": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.0657228415746,
+    "muts_on_path": {}
+  },
+  "KT368862": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.0657228415746,
+    "muts_on_path": {}
+  },
+  "KT368864": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.0657228415746,
+    "muts_on_path": {}
+  },
+  "MF598617": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "KT368888": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.327397260274,
+    "muts_on_path": {}
+  },
+  "MF598616": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598620": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MF598606": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.190256284095,
+    "muts_on_path": {}
+  },
+  "MF598668": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "KT368869": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.17746613694,
+    "muts_on_path": {}
+  },
+  "KT368879": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.2452054794521,
+    "muts_on_path": {}
+  },
+  "MT226600": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.0863013698631,
+    "muts_on_path": {}
+  },
+  "MT226603": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.0863013698631,
+    "muts_on_path": {}
+  },
+  "MT226607": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.0863013698631,
+    "muts_on_path": {}
+  },
+  "MT226604": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.0863013698631,
+    "muts_on_path": {}
+  },
+  "MT226606": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.0863013698631,
+    "muts_on_path": {}
+  },
+  "MN654986": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.3301369863013,
+    "muts_on_path": {}
+  },
+  "MN654974": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.4123287671232,
+    "muts_on_path": {}
+  },
+  "MN654981": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.357202097071,
+    "muts_on_path": {}
+  },
+  "MN655011": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.4166666666667,
+    "muts_on_path": {}
+  },
+  "MN655017": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.2238337812123,
+    "muts_on_path": {}
+  },
+  "MN654988": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.646296176343,
+    "muts_on_path": {}
+  },
+  "MN655014": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.3291411685145,
+    "muts_on_path": {}
+  },
+  "MN654979": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.3308307992331,
+    "muts_on_path": {}
+  },
+  "MN654987": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.3308307992331,
+    "muts_on_path": {}
+  },
+  "MN654977": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.3801893029597,
+    "muts_on_path": {}
+  },
+  "MN655012": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.3801893029597,
+    "muts_on_path": {}
+  },
+  "MN654993": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.3801893029597,
+    "muts_on_path": {}
+  },
+  "MN655015": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.3801893029597,
+    "muts_on_path": {}
+  },
+  "MN655016": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.9136986301369,
+    "muts_on_path": {}
+  },
+  "MT226602": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.0863013698631,
+    "muts_on_path": {}
+  },
+  "MT226605": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.0863013698631,
+    "muts_on_path": {}
+  },
+  "MT226601": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.0863013698631,
+    "muts_on_path": {}
+  },
+  "MN655002": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.3301369863013,
+    "muts_on_path": {}
+  },
+  "MN655010": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.4123287671232,
+    "muts_on_path": {}
+  },
+  "MN655007": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.3591836934845,
+    "muts_on_path": {}
+  },
+  "MN654998": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.3591836934845,
+    "muts_on_path": {}
+  },
+  "MN654985": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.3591836934845,
+    "muts_on_path": {}
+  },
+  "MN655003": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.3591836934845,
+    "muts_on_path": {}
+  },
+  "MN654972": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.4166666666667,
+    "muts_on_path": {}
+  },
+  "MN654980": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.2472677595629,
+    "muts_on_path": {}
+  },
+  "OQ423284": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.9986338797814,
+    "muts_on_path": {}
+  },
+  "MN654970": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.5806010928961,
+    "muts_on_path": {}
+  },
+  "MN654975": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.4986338797814,
+    "muts_on_path": {}
+  },
+  "MN654996": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.25,
+    "muts_on_path": {}
+  },
+  "MN654978": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.4516665905387,
+    "muts_on_path": {}
+  },
+  "MN654992": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.4986338797814,
+    "muts_on_path": {}
+  },
+  "MN654994": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.2479452054795,
+    "muts_on_path": {}
+  },
+  "MN654983": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.9807913347254,
+    "muts_on_path": {}
+  },
+  "MN655005": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.9807913347254,
+    "muts_on_path": {}
+  },
+  "MN654999": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.9807913347254,
+    "muts_on_path": {}
+  },
+  "MN655009": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.9807913347254,
+    "muts_on_path": {}
+  },
+  "MN654976": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2014.719879930371,
+    "muts_on_path": {}
+  },
+  "MN654997": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.291950779623,
+    "muts_on_path": {}
+  },
+  "MN654984": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.1872738201257,
+    "muts_on_path": {}
+  },
+  "MN654990": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.8460046198795,
+    "muts_on_path": {}
+  },
+  "MN655004": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.4640182986357,
+    "muts_on_path": {}
+  },
+  "MN654971": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.9164383561645,
+    "muts_on_path": {}
+  },
+  "MN654982": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.0526393366533,
+    "muts_on_path": {}
+  },
+  "MN655000": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.0863013698631,
+    "muts_on_path": {}
+  },
+  "MN654995": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2018.1794520547944,
+    "muts_on_path": {}
+  },
+  "MN655006": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2018.1794520547944,
+    "muts_on_path": {}
+  },
+  "MN654991": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.8410804946968,
+    "muts_on_path": {}
+  },
+  "MN654973": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2015.8342465753424,
+    "muts_on_path": {}
+  },
+  "MN654989": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.0835616438355,
+    "muts_on_path": {}
+  },
+  "MN655013": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.2261388053628,
+    "muts_on_path": {}
+  },
+  "MN655008": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.3301369863013,
+    "muts_on_path": {}
+  },
+  "MN655001": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2018.2506849315068,
+    "muts_on_path": {}
+  },
+  "OQ423286": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.0013698630137,
+    "muts_on_path": {}
+  },
+  "OQ423283": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2016.818813798654,
+    "muts_on_path": {}
+  },
+  "OQ423285": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.2919472960737,
+    "muts_on_path": {}
+  },
+  "OQ423287": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.056293165707,
+    "muts_on_path": {}
+  },
+  "MN758607": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.9986301369863,
+    "muts_on_path": {}
+  },
+  "MN758609": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.9986301369863,
+    "muts_on_path": {}
+  },
+  "MN758608": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.237288416825,
+    "muts_on_path": {}
+  },
+  "MN758614": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.9986301369863,
+    "muts_on_path": {}
+  },
+  "MN758613": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.0159617029817,
+    "muts_on_path": {}
+  },
+  "MN758611": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.0821489405103,
+    "muts_on_path": {}
+  },
+  "MN758612": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.0037120072052,
+    "muts_on_path": {}
+  },
+  "MN758606": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.0042690100913,
+    "muts_on_path": {}
+  },
+  "MN758610": {
+    "region": "Asia",
+    "host": "Camel",
+    "date": 2017.0042690100913,
+    "muts_on_path": {}
+  }
+}

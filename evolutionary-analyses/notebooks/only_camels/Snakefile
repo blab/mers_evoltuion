@@ -1,0 +1,18 @@
+rule find_ko:
+    message:
+        """
+        Calling KO's for SARS-CoV-2 genes
+        """
+    input:
+        align = "../../../nextstrain-build/phylogenetic_only_camels/results/filtered.fasta"
+    params:
+        reference = "../../../nextstrain-build/phylogenetic_only_camels/defaults/mers_reference.gb"
+    output:
+        ko = "results/ko.tsv"
+    shell:
+        """
+        python find_ko.py \
+            --align {input.align} \
+            --ref {params.reference} \
+            --output {output.ko}
+        """

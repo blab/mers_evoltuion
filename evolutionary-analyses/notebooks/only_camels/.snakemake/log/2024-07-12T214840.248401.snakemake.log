@@ -1,0 +1,32 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 8
+Rules claiming more threads will be scaled down.
+Job stats:
+job        count
+-------  -------
+find_ko        1
+total          1
+
+Select jobs to execute...
+
+[Fri Jul 12 21:48:40 2024]
+Job 0: 
+        Calling KO's for SARS-CoV-2 genes
+        
+Reason: Missing output files: results/ko.tsv
+
+[Fri Jul 12 21:48:45 2024]
+Error in rule find_ko:
+    jobid: 0
+    input: ../../../nextstrain-build/phylogenetic_only_camels/results/filtered.fasta
+    output: results/ko.tsv
+    shell:
+        
+        python find_ko.py             --align ../../../nextstrain-build/phylogenetic_only_camels/results/filtered.fasta             --ref ../../../nextstrain-build/phylogenetic_only_camels/defaults/mers_reference.gb             --output results/ko.tsv
+        
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2024-07-12T214840.248401.snakemake.log
