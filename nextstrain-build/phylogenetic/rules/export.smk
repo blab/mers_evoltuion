@@ -43,6 +43,7 @@ rule export:
             --metadata {input.metadata} \
             --node-data {input.branch_lengths} {input.traits} {input.nt_muts} {input.aa_muts} \
             --auspice-config {input.auspice_config} \
+            --include-root-sequence \
             --output {output.auspice_json} \
             --colors {input.colors}
         """
